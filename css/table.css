@@ -69,13 +69,14 @@ body {
 #container {
     padding: 0 1em;
     margin: 0 auto;
-    height:94vh;
+    height: 90vh
 }
 
 #primary {
     float: left;
     width: 10%;
     height: 100%;
+    padding: 10px;
 }
 
 #content {
@@ -118,9 +119,16 @@ table{
   border-left: 2px solid black;
   border-bottom: 2px solid black;
   border-right: 2px solid black;
-  max-height: 80%;
   overflow-x:auto;
   margin-top: 0px;
+}
+
+#primary .tbl-content{  
+  max-height: 90%;
+}
+
+#secondary .tbl-content{  
+  max-height: 85%;
 }
 th{
   color: #fff;
@@ -142,24 +150,18 @@ td{
 
 #secondary th
 {
-    text-align: left;
+    text-align: center;
     width: 11.11%;
     padding: 10px;
 }
 
 #secondary td{
-    text-align: middle;
+    text-align: center;
     width: 11.11%;
     padding: 10px;  
 }
 
-#primary th {
-  text-align: left;
-  padding: 10px;
-}
-
 #primary td {  
-  text-align: left;
   padding: 2px;
 }
 
