@@ -67,7 +67,6 @@ var parsePokemon = function(name, dexNumber, currentMon){
       }
       else if(formes[name.toLowerCase().trim()] != undefined){
         dexNumber = formes[name.toLowerCase().trim()];
-        console.log(dexNumber);
       }
       $('#tbl1.tbl-body ').append("<tr id = " + currentMon + " class = trChild>\
             <td class = rankTD>" + (currentMon+1) + "</td>\
