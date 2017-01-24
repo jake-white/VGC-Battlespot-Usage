@@ -147,7 +147,6 @@ var display = function(mon){
   pokemonList[mon].teammates.length, pokemonList[mon].movesThatThisPokemonKOsWith.length, pokemonList[mon].movesThatKOThisPokemon.length,
   pokemonList[mon].pokemonThatThisPokemonKOs.length, pokemonList[mon].pokemonThatKOThisPokemon.length]; //I am lazy and need the longest list
   lengths.sort(function(a, b){return a-b});
-  console.log(pokemonList[mon].movesThatThisPokemonKOsWith);
 
   for(var i =0; i < lengths[lengths.length-1] - 1; ++i){
   if(pokemonList[mon].moves[i] == undefined) pokemonList[mon].moves[i] = "";
