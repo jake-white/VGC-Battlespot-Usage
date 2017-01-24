@@ -1,0 +1,71 @@
+116:Zygarde|1
+ ---------- 
+Moves used:
+1:Land's Wrath,100.0%,1.0
+2:Extreme Speed,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Glare,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Metagross
+3:Weavile
+4:Thundurus
+5:Gardevoir
+6:Scizor
+7:Smeargle
+8:Serperior
+9:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Land's Wrath,50.0%,0.5
+2:Extreme Speed,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.0526315789%,0.210526315789
+2:Origin Pulse,10.5263157895%,0.105263157895
+3:Draco Meteor,10.5263157895%,0.105263157895
+4:Eruption,10.5263157895%,0.105263157895
+5:Hidden Power,10.5263157895%,0.105263157895
+6:Icicle Crash,5.26315789474%,0.0526315789474
+7:Shadow Sneak,5.26315789474%,0.0526315789474
+8:Dragon Pulse,5.26315789474%,0.0526315789474
+9:Hyper Voice,5.26315789474%,0.0526315789474
+10:Extreme Speed,5.26315789474%,0.0526315789474
+11:Return,5.26315789474%,0.0526315789474
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Ferrothorn
+3:Gothitelle
+4:Liepard
+5:Blaziken
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Salamence
+3:Aegislash
+4:Groudon
+5:Kyogre
+6:Dialga
+7:Weavile
+8:Rayquaza
+9:Kangaskhan
+10:Gengar

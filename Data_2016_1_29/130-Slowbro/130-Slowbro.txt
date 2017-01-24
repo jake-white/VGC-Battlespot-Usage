@@ -1,0 +1,72 @@
+130:Slowbro|17
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,17.0
+2:Grass Knot,82.3529411765%,14.0
+3:Psychic,82.3529411765%,14.0
+4:Flamethrower,70.5882352941%,12.0
+5:Ice Beam,29.4117647059%,5.0
+6:Psyshock,17.6470588235%,3.0
+7:Skill Swap,17.6470588235%,3.0
+
+ ---------- 
+Items used:
+1:Slowbronite,82.3529411765%,14.0
+2:Sitrus Berry,17.6470588235%,3.0
+
+ ---------- 
+Abilities used:
+1:Own Tempo,82.3529411765%,14.0
+2:Oblivious,17.6470588235%,3.0
+
+ ---------- 
+Natures used:
+1:Quiet,82.3529411765%,14.0
+2:Bold,17.6470588235%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Liepard
+3:Ferrothorn
+4:Xerneas
+5:Talonflame
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,76.9230769231%,13.0769230769
+2:Flamethrower,15.3846153846%,2.61538461538
+3:Ice Beam,7.69230769231%,1.30769230769
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.1818181818%,3.09090909091
+2:Origin Pulse,18.1818181818%,3.09090909091
+3:Dazzling Gleam,9.09090909091%,1.54545454545
+4:Moonblast,9.09090909091%,1.54545454545
+5:Brave Bird,9.09090909091%,1.54545454545
+6:Water Spout,9.09090909091%,1.54545454545
+7:Rock Slide,9.09090909091%,1.54545454545
+8:Earthquake,9.09090909091%,1.54545454545
+9:Double-Edge,9.09090909091%,1.54545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Ferrothorn
+4:Kangaskhan
+5:Landorus
+6:Liepard
+7:Palkia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Landorus
+6:Kangaskhan

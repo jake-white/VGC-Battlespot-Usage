@@ -1,0 +1,86 @@
+126:Conkeldurr|18
+ ---------- 
+Moves used:
+1:Drain Punch,94.4444444444%,17.0
+2:Mach Punch,83.3333333333%,15.0
+3:Ice Punch,72.2222222222%,13.0
+4:Wide Guard,61.1111111111%,11.0
+5:Knock Off,61.1111111111%,11.0
+6:Protect,16.6666666667%,3.0
+7:Hammer Arm,5.55555555556%,1.0
+8:Rock Slide,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,33.3333333333%,6.0
+2:Assault Vest,27.7777777778%,5.0
+3:Sitrus Berry,22.2222222222%,4.0
+4:Safety Goggles,5.55555555556%,1.0
+5:Black Belt,5.55555555556%,1.0
+6:Lum Berry,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Iron Fist,66.6666666667%,12.0
+2:Guts,33.3333333333%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,72.2222222222%,13.0
+2:Brave,22.2222222222%,4.0
+3:Sassy,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Gengar
+4:Kyogre
+5:Xerneas
+6:Whimsicott
+7:Dialga
+8:Rayquaza
+9:Meowstic
+10:Ambipom
+11:Metagross
+12:Heliolisk
+13:Aegislash
+14:Talonflame
+15:Thundurus
+16:Terrakion
+17:Bisharp
+18:Ferrothorn
+19:Amoonguss
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mach Punch,66.6666666667%,12.0
+2:Drain Punch,16.6666666667%,3.0
+3:Ice Punch,16.6666666667%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,3.0
+2:Origin Pulse,16.6666666667%,3.0
+3:Dazzling Gleam,16.6666666667%,3.0
+4:Spacial Rend,16.6666666667%,3.0
+5:Low Kick,16.6666666667%,3.0
+6:Double-Edge,16.6666666667%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Ferrothorn
+3:Liepard
+4:Smeargle
+5:Jumpluff
+6:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Palkia
+4:Groudon
+5:Kyogre

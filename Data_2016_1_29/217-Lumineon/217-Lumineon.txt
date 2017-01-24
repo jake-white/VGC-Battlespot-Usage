@@ -1,0 +1,39 @@
+217:Lumineon|1
+ ---------- 
+Moves used:
+1:Soak,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Swagger,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Groudon
+3:Shedinja
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

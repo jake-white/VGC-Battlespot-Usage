@@ -1,0 +1,100 @@
+86:Porygon-Z|41
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,41.0
+2:Hyper Beam,97.5609756098%,40.0
+3:Tri Attack,80.487804878%,33.0
+4:Uproar,70.7317073171%,29.0
+5:Trick,19.512195122%,8.0
+6:Ice Beam,19.512195122%,8.0
+7:Protect,7.31707317073%,3.0
+8:Psyshock,2.43902439024%,1.0
+9:Thunderbolt,2.43902439024%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,97.5609756098%,40.0
+2:Choice Specs,2.43902439024%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,41.0
+
+ ---------- 
+Natures used:
+1:Modest,97.5609756098%,40.0
+2:Timid,2.43902439024%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Kyogre
+5:Yveltal
+6:Whimsicott
+7:Ditto
+8:Scizor
+9:Talonflame
+10:Liepard
+11:Thundurus
+12:Smeargle
+13:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Beam,81.4814814815%,33.4074074074
+2:Tri Attack,11.1111111111%,4.55555555556
+3:Uproar,3.7037037037%,1.51851851852
+4:Ice Beam,3.7037037037%,1.51851851852
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.1515151515%,6.21212121212
+2:Origin Pulse,9.09090909091%,3.72727272727
+3:Water Spout,9.09090909091%,3.72727272727
+4:Eruption,9.09090909091%,3.72727272727
+5:Superpower,6.06060606061%,2.48484848485
+6:Rock Slide,6.06060606061%,2.48484848485
+7:Double-Edge,6.06060606061%,2.48484848485
+8:Precipice Blades,3.0303030303%,1.24242424242
+9:Power-Up Punch,3.0303030303%,1.24242424242
+10:Draco Meteor,3.0303030303%,1.24242424242
+11:Earth Power,3.0303030303%,1.24242424242
+12:Close Combat,3.0303030303%,1.24242424242
+13:Hyper Voice,3.0303030303%,1.24242424242
+14:Fake Out,3.0303030303%,1.24242424242
+15:Return,3.0303030303%,1.24242424242
+16:Sludge Bomb,3.0303030303%,1.24242424242
+17:Explosion,3.0303030303%,1.24242424242
+18:Low Kick,3.0303030303%,1.24242424242
+19:Blizzard,3.0303030303%,1.24242424242
+20:Ice Beam,3.0303030303%,1.24242424242
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Amoonguss
+5:Yveltal
+6:Thundurus
+7:Terrakion
+8:Togekiss
+9:Skarmory
+10:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Landorus
+6:Sylveon
+7:Greninja
+8:Infernape
+9:Rayquaza
+10:Kyogre
+11:Mewtwo
+12:Venusaur

@@ -1,0 +1,37 @@
+227:Starmie|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Psychic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Iron Ball,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Analytic,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

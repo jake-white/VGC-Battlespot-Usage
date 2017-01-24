@@ -1,0 +1,72 @@
+156:Empoleon|9
+ ---------- 
+Moves used:
+1:Ice Beam,100.0%,9.0
+2:Flash Cannon,77.7777777778%,7.0
+3:Grass Knot,55.5555555556%,5.0
+4:Aqua Jet,44.4444444444%,4.0
+5:Protect,44.4444444444%,4.0
+6:Scald,33.3333333333%,3.0
+7:Steel Wing,22.2222222222%,2.0
+8:Hydro Pump,22.2222222222%,2.0
+
+ ---------- 
+Items used:
+1:Leftovers,44.4444444444%,4.0
+2:Assault Vest,33.3333333333%,3.0
+3:Expert Belt,22.2222222222%,2.0
+
+ ---------- 
+Abilities used:
+1:Torrent,77.7777777778%,7.0
+2:Defiant,22.2222222222%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,77.7777777778%,7.0
+2:Quiet,22.2222222222%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Mienshao
+4:Yveltal
+5:Whimsicott
+6:Ho-Oh
+7:Hydreigon
+8:Giratina
+9:Rotom
+10:Weavile
+11:Rayquaza
+12:Crobat
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flash Cannon,33.3333333333%,3.0
+2:Steel Wing,33.3333333333%,3.0
+3:Ice Beam,33.3333333333%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,2.25
+2:Dragon Ascent,12.5%,1.125
+3:Shadow Force,12.5%,1.125
+4:Water Spout,12.5%,1.125
+5:Earthquake,12.5%,1.125
+6:Thunder,12.5%,1.125
+7:Fire Punch,12.5%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Weavile
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kyogre
+4:Giratina

@@ -1,0 +1,66 @@
+163:Goodra|7
+ ---------- 
+Moves used:
+1:Sludge Bomb,71.4285714286%,5.0
+2:Muddy Water,57.1428571429%,4.0
+3:Thunderbolt,57.1428571429%,4.0
+4:Ice Beam,57.1428571429%,4.0
+5:Power Whip,28.5714285714%,2.0
+6:Superpower,28.5714285714%,2.0
+7:Iron Tail,28.5714285714%,2.0
+8:Protect,28.5714285714%,2.0
+9:Dragon Pulse,14.2857142857%,1.0
+10:Feint,14.2857142857%,1.0
+11:Flamethrower,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,71.4285714286%,5.0
+2:Wide Lens,28.5714285714%,2.0
+
+ ---------- 
+Abilities used:
+1:Hydration,57.1428571429%,4.0
+2:Sap Sipper,42.8571428571%,3.0
+
+ ---------- 
+Natures used:
+1:Calm,57.1428571429%,4.0
+2:Adamant,28.5714285714%,2.0
+3:Modest,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Scizor
+2:Kyogre
+3:Golduck
+4:Palkia
+5:Aegislash
+6:Gastrodon
+7:Zapdos
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,66.6666666667%,4.66666666667
+2:Feint,33.3333333333%,2.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,1.75
+2:Dragon Pulse,25.0%,1.75
+3:Explosion,25.0%,1.75
+4:Ice Beam,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Infernape
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Dialga
+4:Walrein

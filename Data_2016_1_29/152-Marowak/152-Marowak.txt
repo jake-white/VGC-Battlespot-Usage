@@ -1,0 +1,62 @@
+152:Marowak|11
+ ---------- 
+Moves used:
+1:Rock Slide,100.0%,11.0
+2:Bonemerang,100.0%,11.0
+3:Low Kick,81.8181818182%,9.0
+4:Detect,54.5454545455%,6.0
+5:Protect,45.4545454545%,5.0
+6:Perish Song,18.1818181818%,2.0
+
+ ---------- 
+Items used:
+1:Thick Club,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Kyogre
+3:Tornadus
+4:Cresselia
+5:Infernape
+6:Mawile
+7:Ho-Oh
+8:Xerneas
+9:Groudon
+10:Gothitelle
+11:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,55.5555555556%,6.11111111111
+2:Bonemerang,44.4444444444%,4.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,33.3333333333%,3.66666666667
+2:Dragon Claw,33.3333333333%,3.66666666667
+3:Hyper Voice,33.3333333333%,3.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Thundurus
+5:Whimsicott
+6:Ho-Oh
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Mawile

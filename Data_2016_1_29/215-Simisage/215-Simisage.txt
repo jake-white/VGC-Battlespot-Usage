@@ -1,0 +1,39 @@
+215:Simisage|1
+ ---------- 
+Moves used:
+1:Worry Seed,100.0%,1.0
+2:Fling,100.0%,1.0
+3:Role Play,100.0%,1.0
+4:Helping Hand,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Light Ball,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Gluttony,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

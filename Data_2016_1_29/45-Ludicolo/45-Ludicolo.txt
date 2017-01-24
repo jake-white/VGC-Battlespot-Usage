@@ -1,0 +1,138 @@
+45:Ludicolo|227
+ ---------- 
+Moves used:
+1:Fake Out,99.1189427313%,225.0
+2:Ice Beam,94.2731277533%,214.0
+3:Scald,92.0704845815%,209.0
+4:Grass Knot,56.3876651982%,128.0
+5:Giga Drain,43.6123348018%,99.0
+6:Hydro Pump,8.37004405286%,19.0
+7:Protect,3.08370044053%,7.0
+8:Icy Wind,1.32158590308%,3.0
+9:Energy Ball,0.881057268722%,2.0
+10:Teeter Dance,0.440528634361%,1.0
+11:Growl,0.440528634361%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,79.7356828194%,181.0
+2:Lum Berry,6.60792951542%,15.0
+3:Life Orb,4.84581497797%,11.0
+4:Focus Sash,3.08370044053%,7.0
+5:Coba Berry,3.08370044053%,7.0
+6:Choice Specs,0.881057268722%,2.0
+7:Scope Lens,0.881057268722%,2.0
+8:Sitrus Berry,0.881057268722%,2.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,99.5594713656%,226.0
+2:Rain Dish,0.440528634361%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,95.154185022%,216.0
+2:Timid,3.96475770925%,9.0
+3:Bold,0.881057268722%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Xerneas
+5:Mawile
+6:Talonflame
+7:Thundurus
+8:Scizor
+9:Landorus
+10:Liepard
+11:Togekiss
+12:Ferrothorn
+13:Aegislash
+14:Cresselia
+15:Palkia
+16:Salamence
+17:Lugia
+18:Ditto
+19:Groudon
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,48.3146067416%,109.674157303
+2:Ice Beam,21.3483146067%,48.4606741573
+3:Grass Knot,14.606741573%,33.1573033708
+4:Giga Drain,8.98876404494%,20.404494382
+5:Fake Out,4.49438202247%,10.202247191
+6:Hydro Pump,2.24719101124%,5.10112359551
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,10.8843537415%,24.7074829932
+2:Dazzling Gleam,10.8843537415%,24.7074829932
+3:Brave Bird,9.52380952381%,21.619047619
+4:Double-Edge,9.52380952381%,21.619047619
+5:Moonblast,6.80272108844%,15.4421768707
+6:Precipice Blades,4.7619047619%,10.8095238095
+7:Power Whip,3.40136054422%,7.72108843537
+8:Sludge Bomb,3.40136054422%,7.72108843537
+9:Play Rough,2.72108843537%,6.1768707483
+10:Hyper Voice,2.04081632653%,4.63265306122
+11:Return,2.04081632653%,4.63265306122
+12:Thunderbolt,2.04081632653%,4.63265306122
+13:Ice Beam,2.04081632653%,4.63265306122
+14:Oblivion Wing,1.36054421769%,3.08843537415
+15:Snarl,1.36054421769%,3.08843537415
+16:Sky Drop,1.36054421769%,3.08843537415
+17:Earth Power,1.36054421769%,3.08843537415
+18:Sucker Punch,1.36054421769%,3.08843537415
+19:U-turn,1.36054421769%,3.08843537415
+20:Gyro Ball,1.36054421769%,3.08843537415
+0:Other,19.0476190476%,43.2380952381
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Smeargle
+7:Landorus
+8:Thundurus
+9:Ferrothorn
+10:Cresselia
+11:Rayquaza
+12:Mawile
+13:Crobat
+14:Gengar
+15:Talonflame
+16:Mienshao
+17:Amoonguss
+18:Whimsicott
+19:Liepard
+20:Infernape
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Talonflame
+5:Rayquaza
+6:Kyogre
+7:Salamence
+8:Ferrothorn
+9:Yveltal
+10:Rayquaza
+11:Mawile
+12:Landorus
+13:Aegislash
+14:Cresselia
+15:Ho-Oh
+16:Gengar
+17:Gengar
+18:Sylveon
+19:Greninja
+20:Thundurus

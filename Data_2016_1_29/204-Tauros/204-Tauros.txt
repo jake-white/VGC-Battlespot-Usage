@@ -1,0 +1,47 @@
+204:Tauros|1
+ ---------- 
+Moves used:
+1:Return,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Anger Point,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Lopunny
+2:Smeargle
+3:Pachirisu
+4:Milotic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,66.6666666667%,0.666666666667
+2:Return,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,0.5
+2:Low Kick,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Noivern
+2:Talonflame
+3:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Lopunny
+2:Kyogre

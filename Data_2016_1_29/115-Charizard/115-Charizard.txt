@@ -1,0 +1,113 @@
+115:Charizard|24
+ ---------- 
+Moves used:
+1:Heat Wave,87.5%,21.0
+2:Solar Beam,62.5%,15.0
+3:Flamethrower,62.5%,15.0
+4:Protect,45.8333333333%,11.0
+5:Dragon Pulse,29.1666666667%,7.0
+6:Overheat,20.8333333333%,5.0
+7:Blast Burn,20.8333333333%,5.0
+8:Air Slash,12.5%,3.0
+9:Ancient Power,12.5%,3.0
+10:Tailwind,8.33333333333%,2.0
+11:Will-O-Wisp,8.33333333333%,2.0
+12:Fire Pledge,4.16666666667%,1.0
+13:Focus Blast,4.16666666667%,1.0
+14:Dragon Dance,4.16666666667%,1.0
+15:Dragon Claw,4.16666666667%,1.0
+16:Brick Break,4.16666666667%,1.0
+17:Substitute,4.16666666667%,1.0
+18:Fire Punch,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,45.8333333333%,11.0
+2:Charizardite Y,25.0%,6.0
+3:Life Orb,16.6666666667%,4.0
+4:Lum Berry,8.33333333333%,2.0
+5:Charizardite X,4.16666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,75.0%,18.0
+2:Blaze,25.0%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,62.5%,15.0
+2:Modest,33.3333333333%,8.0
+3:Adamant,4.16666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Palkia
+5:Salamence
+6:Thundurus
+7:Sylveon
+8:Talonflame
+9:Liepard
+10:Cresselia
+11:Dialga
+12:Garchomp
+13:Yveltal
+14:Greninja
+15:Zekrom
+16:Virizion
+17:Bisharp
+18:Mienshao
+19:Ferrothorn
+20:Conkeldurr
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,86.9565217391%,20.8695652174
+2:Fire Pledge,8.69565217391%,2.08695652174
+3:Solar Beam,4.34782608696%,1.04347826087
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,18.75%,4.5
+2:Hyper Voice,12.5%,3.0
+3:Eruption,12.5%,3.0
+4:Precipice Blades,6.25%,1.5
+5:Foul Play,6.25%,1.5
+6:Water Spout,6.25%,1.5
+7:Facade,6.25%,1.5
+8:Fake Out,6.25%,1.5
+9:Extreme Speed,6.25%,1.5
+10:Sludge Bomb,6.25%,1.5
+11:Thunderbolt,6.25%,1.5
+12:Double-Edge,6.25%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Xerneas
+4:Thundurus
+5:Smeargle
+6:Kangaskhan
+7:Yveltal
+8:Greninja
+9:Liepard
+10:Glaceon
+11:Salamence
+12:Sableye
+13:Kangaskhan
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Yveltal
+4:Thundurus
+5:Lopunny
+6:Rayquaza
+7:Kyogre
+8:Kangaskhan
+9:Gengar

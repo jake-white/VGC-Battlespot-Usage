@@ -1,0 +1,196 @@
+.columns {
+    -webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+}
+body, html {
+    margin:0;
+    padding:0;
+    font-family: Open Sans;
+}
+
+#notice{
+    font-size: 30pt;
+    color: #e64946;
+}
+#smallnotice{
+    font-size: 15pt;
+    color: #e64946;
+}
+
+#notice a{
+    color: #1e3864;
+}
+
+body {    
+    font-size: 10pt;
+}
+
+.wrapper{
+    padding:0 1em;
+    max-width:1247px;
+    margin:0 auto;
+}
+.header{
+    margin:0 0 20px 0;
+    color: #ffffff;
+    background:#1e3864;
+    border-bottom: 5px solid #e64946;
+    box-shadow:inset 1px 1px 0 rgba(255,255,255,.6),0px 2px 2px rgba(0,0,0,.15);
+    min-height:50px;
+}
+
+.header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-inner {
+    max-width:960px;
+    margin:0 auto;
+}
+
+.header-logo {
+    float: left;
+}
+
+.nav,.nav li,.nav-play,.nav-play li{
+    display:block;
+    list-style:none;
+    margin:0;
+    padding:0;
+    float:left;
+}
+
+.nav{
+    padding:15px 6px 15px 6px;
+}
+
+#container {
+    padding: 0 1em;
+    margin: 0 auto;
+    height:94vh;
+}
+
+#primary {
+    float: left;
+    width: 10%;
+    height: 100%;
+}
+
+#content {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+
+#secondary {
+    float: left;
+    width: 65%;
+    height: 100%;
+}
+
+#footer {
+    clear: both;
+}
+
+label{
+  color: #080c17;
+  font: 16pt Verdana, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.mh-site-logo{
+  padding-top: 5px;
+  padding-left: 5px;
+}
+table{
+  width: 100%;
+     display: block ;
+}
+.tbl-header{
+  font: bold 12px/18px sans-serif;
+  background-color: #1e3864;
+ }
+.tbl-content{
+  border-top: 5px solid #e64946;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+  max-height: 80%;
+  overflow-x:auto;
+  margin-top: 0px;
+}
+th{
+  color: #fff;
+  text-transform: uppercase;
+}
+.trChild:hover { 
+    background-color: #e64946;
+}
+
+td{
+  border-bottom: 1px solid black;
+  text-align: left;
+  vertical-align:middle;
+  font-weight: 300;
+  font-size: 12px;
+  color: #080c17;
+  white-space: normal;
+}
+
+#secondary th
+{
+    text-align: left;
+    width: 11.11%;
+    padding: 10px;
+}
+
+#secondary td{
+    text-align: middle;
+    width: 11.11%;
+    padding: 10px;  
+}
+
+#primary td {  
+  padding: 2px;
+}
+
+.rankTD {
+  width: 10%;
+}
+
+.nameTD {
+  width: 60%;  
+}
+
+.percentTD {
+  width: 10%;  
+}
+
+
+/* follow me template */
+.made-with-love {
+  margin-top: 40px;
+  padding: 10px;
+  clear: left;
+  text-align: center;
+  font-size: 10px;
+  font-family: arial;
+  color: #fff;
+}
+.made-with-love i {
+  font-style: normal;
+  color: #F50057;
+  font-size: 14px;
+  position: relative;
+  top: 2px;
+}
+.made-with-love a {
+  color: #fff;
+  text-decoration: none;
+}
+.made-with-love a:hover {
+  text-decoration: underline;
+}

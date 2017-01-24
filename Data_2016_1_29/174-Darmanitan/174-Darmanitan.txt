@@ -1,0 +1,46 @@
+174:Darmanitan|1
+ ---------- 
+Moves used:
+1:Zen Headbutt,100.0%,1.0
+2:Flare Blitz,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Kyogre
+3:Aromatisse
+4:Rayquaza
+5:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,50.0%,0.5
+2:Rock Slide,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Earth Power,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Amoonguss
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

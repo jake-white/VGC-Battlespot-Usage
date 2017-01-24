@@ -1,0 +1,131 @@
+50:Breloom|147
+ ---------- 
+Moves used:
+1:Bullet Seed,100.0%,147.0
+2:Spore,100.0%,147.0
+3:Mach Punch,87.7551020408%,129.0
+4:Protect,68.7074829932%,101.0
+5:Drain Punch,10.8843537415%,16.0
+6:Rock Tomb,10.8843537415%,16.0
+7:Superpower,9.52380952381%,14.0
+8:Worry Seed,4.08163265306%,6.0
+9:Feint,4.08163265306%,6.0
+10:Force Palm,2.72108843537%,4.0
+11:Snatch,1.36054421769%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,75.5102040816%,111.0
+2:Choice Scarf,23.1292517007%,34.0
+3:Focus Band,1.36054421769%,2.0
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,147.0
+
+ ---------- 
+Natures used:
+1:Jolly,72.1088435374%,106.0
+2:Adamant,26.5306122449%,39.0
+3:Brave,1.36054421769%,2.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Dialga
+6:Talonflame
+7:Rayquaza
+8:Crobat
+9:Landorus
+10:Palkia
+11:Thundurus
+12:Liepard
+13:Scizor
+14:Mewtwo
+15:Yveltal
+16:Ho-Oh
+17:Gengar
+18:Cresselia
+19:Bisharp
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mach Punch,55.5555555556%,81.6666666667
+2:Bullet Seed,33.3333333333%,49.0
+3:Superpower,6.66666666667%,9.8
+4:Force Palm,2.22222222222%,3.26666666667
+5:Rock Tomb,2.22222222222%,3.26666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.4615384615%,19.7884615385
+2:Eruption,5.76923076923%,8.48076923077
+3:Ice Beam,5.76923076923%,8.48076923077
+4:Double-Edge,5.76923076923%,8.48076923077
+5:Origin Pulse,4.80769230769%,7.06730769231
+6:Brave Bird,4.80769230769%,7.06730769231
+7:Hyper Voice,4.80769230769%,7.06730769231
+8:Precipice Blades,2.88461538462%,4.24038461538
+9:Moonblast,2.88461538462%,4.24038461538
+10:Iron Head,2.88461538462%,4.24038461538
+11:Water Spout,2.88461538462%,4.24038461538
+12:Bullet Punch,1.92307692308%,2.82692307692
+13:Earth Power,1.92307692308%,2.82692307692
+14:Gyro Ball,1.92307692308%,2.82692307692
+15:Shadow Ball,1.92307692308%,2.82692307692
+16:Extreme Speed,1.92307692308%,2.82692307692
+17:Return,1.92307692308%,2.82692307692
+18:Sludge Bomb,1.92307692308%,2.82692307692
+19:Thunderbolt,1.92307692308%,2.82692307692
+20:Flamethrower,1.92307692308%,2.82692307692
+0:Other,19.2307692308%,28.2692307692
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Ferrothorn
+5:Liepard
+6:Groudon
+7:Smeargle
+8:Cresselia
+9:Weavile
+10:Yveltal
+11:Talonflame
+12:Greninja
+13:Landorus
+14:Thundurus
+15:Terrakion
+16:Mienshao
+17:Jellicent
+18:Dialga
+19:Ludicolo
+20:Suicune
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Rayquaza
+9:Mawile
+10:Ferrothorn
+11:Cresselia
+12:Dialga
+13:Ho-Oh
+14:Scizor
+15:Yveltal
+16:Aegislash
+17:Kyurem
+18:Landorus
+19:Zekrom
+20:Terrakion

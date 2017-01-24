@@ -1,0 +1,87 @@
+109:Escavalier|25
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,25.0
+2:Megahorn,100.0%,25.0
+3:Protect,92.0%,23.0
+4:Drill Run,56.0%,14.0
+5:Quick Guard,40.0%,10.0
+6:Knock Off,12.0%,3.0
+
+ ---------- 
+Items used:
+1:Life Orb,84.0%,21.0
+2:Assault Vest,8.0%,2.0
+3:Expert Belt,8.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Brave,96.0%,24.0
+2:Adamant,4.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Kangaskhan
+4:Xerneas
+5:Kyurem
+6:Kyogre
+7:Kyurem
+8:Liepard
+9:Jumpluff
+10:Gengar
+11:Jellicent
+12:Tornadus
+13:Scrafty
+14:Weavile
+15:Rayquaza
+16:Salamence
+17:Dusclops
+18:Camerupt
+19:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,80.0%,20.0
+2:Drill Run,20.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,21.0526315789%,5.26315789474
+2:Origin Pulse,10.5263157895%,2.63157894737
+3:Dragon Ascent,5.26315789474%,1.31578947368
+4:Precipice Blades,5.26315789474%,1.31578947368
+5:Power-Up Punch,5.26315789474%,1.31578947368
+6:Moonblast,5.26315789474%,1.31578947368
+7:Play Rough,5.26315789474%,1.31578947368
+8:Dark Pulse,5.26315789474%,1.31578947368
+9:Flare Blitz,5.26315789474%,1.31578947368
+10:Sucker Punch,5.26315789474%,1.31578947368
+11:Water Spout,5.26315789474%,1.31578947368
+12:Fire Blast,5.26315789474%,1.31578947368
+13:Flamethrower,5.26315789474%,1.31578947368
+14:Double-Edge,5.26315789474%,1.31578947368
+15:Fire Punch,5.26315789474%,1.31578947368
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Rayquaza
+8:Salamence
+9:Kangaskhan

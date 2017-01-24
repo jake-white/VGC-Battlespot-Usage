@@ -1,0 +1,165 @@
+23:Palkia|1329
+ ---------- 
+Moves used:
+1:Spacial Rend,98.5703536494%,1310.0
+2:Earth Power,84.8006019564%,1127.0
+3:Protect,77.2009029345%,1026.0
+4:Trick Room,64.0331075997%,851.0
+5:Hydro Pump,25.5079006772%,339.0
+6:Flamethrower,13.0925507901%,174.0
+7:Gravity,10.3085026336%,137.0
+8:Thunder,8.50263355907%,113.0
+9:Draco Meteor,4.13844996238%,55.0
+10:Ice Beam,3.8374717833%,51.0
+11:Fire Blast,2.40782543266%,32.0
+12:Aura Sphere,2.0316027088%,27.0
+13:Thunderbolt,1.58013544018%,21.0
+14:Power Gem,1.35440180587%,18.0
+15:Dragon Pulse,1.35440180587%,18.0
+16:Thunder Wave,0.677200902935%,9.0
+17:Surf,0.225733634312%,3.0
+18:Safeguard,0.150489089541%,2.0
+19:Dragon Tail,0.0752445447705%,1.0
+20:Substitute,0.0752445447705%,1.0
+0:Other,0.0752445447705%,1.0
+
+ ---------- 
+Items used:
+1:Haban Berry,36.5688487585%,486.0
+2:Lum Berry,14.5974416855%,194.0
+3:Life Orb,11.5124153499%,153.0
+4:Lustrous Orb,9.85703536494%,131.0
+5:Choice Specs,7.82543265613%,104.0
+6:Leftovers,4.28893905192%,57.0
+7:Roseli Berry,4.21369450715%,56.0
+8:Expert Belt,3.23551542513%,43.0
+9:Mental Herb,3.16027088036%,42.0
+10:Focus Sash,1.42964635064%,19.0
+11:Choice Scarf,0.978179082017%,13.0
+12:Assault Vest,0.827689992476%,11.0
+13:Sitrus Berry,0.752445447705%,10.0
+14:Macho Brace,0.677200902935%,9.0
+15:Yache Berry,0.0752445447705%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,85.252069225%,1133.0
+2:Telepathy,14.747930775%,196.0
+
+ ---------- 
+Natures used:
+1:Timid,40.0300978179%,532.0
+2:Quiet,30.0225733634%,399.0
+3:Modest,16.6290443943%,221.0
+4:Sassy,9.48081264108%,126.0
+5:Relaxed,1.80586907449%,24.0
+6:Calm,1.12866817156%,15.0
+7:Mild,0.677200902935%,9.0
+8:Bold,0.225733634312%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Cresselia
+4:Mawile
+5:Talonflame
+6:Landorus
+7:Ferrothorn
+8:Kyogre
+9:Gengar
+10:Xerneas
+11:Liepard
+12:Amoonguss
+13:Smeargle
+14:Salamence
+15:Crobat
+16:Scizor
+17:Thundurus
+18:Mewtwo
+19:Infernape
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Spacial Rend,57.3091849935%,761.639068564
+2:Earth Power,29.107373868%,386.836998706
+3:Hydro Pump,5.43337645537%,72.2095730918
+4:Flamethrower,3.36351875809%,44.701164295
+5:Ice Beam,2.06985769728%,27.5084087969
+6:Thunder,0.905562742561%,12.0349288486
+7:Dragon Pulse,0.646830530401%,8.59637774903
+8:Draco Meteor,0.517464424321%,6.87710219922
+9:Aura Sphere,0.25873221216%,3.43855109961
+10:Thunderbolt,0.25873221216%,3.43855109961
+11:Fire Blast,0.12936610608%,1.71927554981
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.8153446034%,236.765929779
+2:Precipice Blades,10.533159948%,139.985695709
+3:Moonblast,6.63198959688%,88.1391417425
+4:Double-Edge,5.72171651495%,76.0416124837
+5:Ice Beam,4.81144343303%,63.944083225
+6:Dragon Ascent,3.90117035111%,51.8465539662
+7:Play Rough,3.7711313394%,50.1183355007
+8:Draco Meteor,3.51105331599%,46.6618985696
+9:Brave Bird,3.51105331599%,46.6618985696
+10:Sucker Punch,2.47074122237%,32.8361508453
+11:Spacial Rend,2.21066319896%,29.3797139142
+12:Earth Power,2.08062418726%,27.6514954486
+13:Power Whip,1.95058517555%,25.9232769831
+14:Origin Pulse,1.82054616385%,24.1950585176
+15:Return,1.69050715215%,22.466840052
+16:Hyper Voice,1.56046814044%,20.7386215865
+17:Dragon Claw,1.30039011704%,17.2821846554
+18:Rock Slide,1.30039011704%,17.2821846554
+19:Earthquake,1.30039011704%,17.2821846554
+20:Foul Play,1.17035110533%,15.5539661899
+0:Other,17.6853055917%,235.037711313
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Talonflame
+6:Rayquaza
+7:Mawile
+8:Smeargle
+9:Cresselia
+10:Xerneas
+11:Yveltal
+12:Crobat
+13:Rayquaza
+14:Thundurus
+15:Landorus
+16:Ferrothorn
+17:Dialga
+18:Palkia
+19:Gengar
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Mawile
+7:Salamence
+8:Ferrothorn
+9:Talonflame
+10:Yveltal
+11:Landorus
+12:Palkia
+13:Smeargle
+14:Cresselia
+15:Dialga
+16:Rayquaza
+17:Thundurus
+18:Kyurem
+19:Ho-Oh
+20:Gengar

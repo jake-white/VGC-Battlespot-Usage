@@ -1,0 +1,41 @@
+202:Wobbuffet|1
+ ---------- 
+Moves used:
+1:Mirror Coat,100.0%,1.0
+2:Encore,100.0%,1.0
+3:Destiny Bond,100.0%,1.0
+4:Counter,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Serperior
+3:Gliscor
+4:Kyogre
+5:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mirror Coat,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+
+ ---------- 
+Pokemon that KO this pokemon:

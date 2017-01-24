@@ -1,0 +1,50 @@
+162:Arbok|1
+ ---------- 
+Moves used:
+1:Gunk Shot,100.0%,1.0
+2:Switcheroo,100.0%,1.0
+3:Gastro Acid,100.0%,1.0
+4:Beat Up,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Cobalion
+2:Rayquaza
+3:Clefable
+4:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gunk Shot,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,20.0%,0.2
+2:Hyper Voice,20.0%,0.2
+3:Eruption,20.0%,0.2
+4:Psychic,20.0%,0.2
+5:Double-Edge,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dialga
+2:Groudon
+3:Latios
+4:Salamence
+5:Kangaskhan

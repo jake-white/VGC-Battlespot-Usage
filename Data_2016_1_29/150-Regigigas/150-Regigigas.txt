@@ -1,0 +1,64 @@
+150:Regigigas|11
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,11.0
+2:Drain Punch,63.6363636364%,7.0
+3:Safeguard,63.6363636364%,7.0
+4:Rock Slide,63.6363636364%,7.0
+5:Knock Off,36.3636363636%,4.0
+6:Icy Wind,36.3636363636%,4.0
+7:Confuse Ray,36.3636363636%,4.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,63.6363636364%,7.0
+2:Rocky Helmet,36.3636363636%,4.0
+
+ ---------- 
+Abilities used:
+1:Slow Start,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Impish,63.6363636364%,7.0
+2:Relaxed,36.3636363636%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Xerneas
+4:Giratina
+5:Kangaskhan
+6:Metagross
+7:Talonflame
+8:Thundurus
+9:Garchomp
+10:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,11.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,1.57142857143
+2:Moonblast,14.2857142857%,1.57142857143
+3:Play Rough,14.2857142857%,1.57142857143
+4:Close Combat,14.2857142857%,1.57142857143
+5:Thunderbolt,14.2857142857%,1.57142857143
+6:Low Kick,14.2857142857%,1.57142857143
+7:Fire Punch,14.2857142857%,1.57142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Thundurus
+3:Cobalion
+4:Groudon
+5:Mawile
+6:Kangaskhan

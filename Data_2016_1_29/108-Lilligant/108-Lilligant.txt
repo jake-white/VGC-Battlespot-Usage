@@ -1,0 +1,88 @@
+108:Lilligant|26
+ ---------- 
+Moves used:
+1:Protect,100.0%,26.0
+2:After You,96.1538461538%,25.0
+3:Sleep Powder,88.4615384615%,23.0
+4:Grass Knot,84.6153846154%,22.0
+5:Worry Seed,7.69230769231%,2.0
+6:Leaf Storm,3.84615384615%,1.0
+7:Healing Wish,3.84615384615%,1.0
+8:Teeter Dance,3.84615384615%,1.0
+9:Role Play,3.84615384615%,1.0
+10:Hidden Power,3.84615384615%,1.0
+11:Safeguard,3.84615384615%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,88.4615384615%,23.0
+2:Coba Berry,11.5384615385%,3.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,26.0
+
+ ---------- 
+Natures used:
+1:Timid,76.9230769231%,20.0
+2:Modest,11.5384615385%,3.0
+3:Hasty,7.69230769231%,2.0
+4:Bold,3.84615384615%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Thundurus
+5:Salamence
+6:Mawile
+7:Xerneas
+8:Giratina
+9:Palkia
+10:Yveltal
+11:Gothitelle
+12:Liepard
+13:Dialga
+14:Weavile
+15:Kyogre
+16:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,26.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.3333333333%,3.46666666667
+2:Moonblast,13.3333333333%,3.46666666667
+3:Ice Beam,13.3333333333%,3.46666666667
+4:Brave Bird,6.66666666667%,1.73333333333
+5:Gyro Ball,6.66666666667%,1.73333333333
+6:Overheat,6.66666666667%,1.73333333333
+7:Hyper Voice,6.66666666667%,1.73333333333
+8:Fake Out,6.66666666667%,1.73333333333
+9:Shadow Ball,6.66666666667%,1.73333333333
+10:Return,6.66666666667%,1.73333333333
+11:Double-Edge,6.66666666667%,1.73333333333
+12:Fire Punch,6.66666666667%,1.73333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Groudon
+3:Smeargle
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Ferrothorn
+5:Cresselia
+6:Kyogre
+7:Salamence
+8:Ho-Oh
+9:Gengar
+10:Clefairy

@@ -1,0 +1,134 @@
+82:Latios|52
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,52.0
+2:Psychic,55.7692307692%,29.0
+3:Dragon Pulse,40.3846153846%,21.0
+4:Grass Knot,36.5384615385%,19.0
+5:Tailwind,34.6153846154%,18.0
+6:Protect,28.8461538462%,15.0
+7:Helping Hand,23.0769230769%,12.0
+8:Ice Beam,21.1538461538%,11.0
+9:Heal Pulse,19.2307692308%,10.0
+10:Memento,15.3846153846%,8.0
+11:Thunder,7.69230769231%,4.0
+12:Surf,5.76923076923%,3.0
+13:Trick,3.84615384615%,2.0
+14:Hidden Power,3.84615384615%,2.0
+15:Psyshock,1.92307692308%,1.0
+16:Thunder Wave,1.92307692308%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,46.1538461538%,24.0
+2:Focus Sash,21.1538461538%,11.0
+3:Latiosite,13.4615384615%,7.0
+4:Life Orb,7.69230769231%,4.0
+5:Lum Berry,5.76923076923%,3.0
+6:Choice Specs,3.84615384615%,2.0
+7:Sitrus Berry,1.92307692308%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,52.0
+
+ ---------- 
+Natures used:
+1:Timid,61.5384615385%,32.0
+2:Modest,38.4615384615%,20.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Ho-Oh
+4:Kangaskhan
+5:Xerneas
+6:Raikou
+7:Ferrothorn
+8:Crobat
+9:Liepard
+10:Landorus
+11:Talonflame
+12:Cresselia
+13:Salamence
+14:Aegislash
+15:Terrakion
+16:Whimsicott
+17:Jumpluff
+18:Yveltal
+19:Meowstic
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,45.4545454545%,23.6363636364
+2:Psychic,31.8181818182%,16.5454545455
+3:Psyshock,9.09090909091%,4.72727272727
+4:Grass Knot,4.54545454545%,2.36363636364
+5:Hidden Power,4.54545454545%,2.36363636364
+6:Ice Beam,4.54545454545%,2.36363636364
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,8.66666666667
+2:Moonblast,7.14285714286%,3.71428571429
+3:Ice Beam,7.14285714286%,3.71428571429
+4:Dragon Ascent,4.7619047619%,2.47619047619
+5:Shadow Sneak,4.7619047619%,2.47619047619
+6:Rock Slide,4.7619047619%,2.47619047619
+7:Origin Pulse,2.38095238095%,1.2380952381
+8:Power-Up Punch,2.38095238095%,1.2380952381
+9:Icicle Crash,2.38095238095%,1.2380952381
+10:Snarl,2.38095238095%,1.2380952381
+11:Foul Play,2.38095238095%,1.2380952381
+12:Shadow Force,2.38095238095%,1.2380952381
+13:Bug Bite,2.38095238095%,1.2380952381
+14:Brave Bird,2.38095238095%,1.2380952381
+15:Dark Pulse,2.38095238095%,1.2380952381
+16:U-turn,2.38095238095%,1.2380952381
+17:Gyro Ball,2.38095238095%,1.2380952381
+18:Hyper Voice,2.38095238095%,1.2380952381
+19:Knock Off,2.38095238095%,1.2380952381
+20:Extreme Speed,2.38095238095%,1.2380952381
+0:Other,9.52380952381%,4.95238095238
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Salamence
+3:Talonflame
+4:Rayquaza
+5:Gengar
+6:Terrakion
+7:Ferrothorn
+8:Groudon
+9:Kyogre
+10:Glalie
+11:Zapdos
+12:Kangaskhan
+13:Gengar
+14:Arbok
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Yveltal
+4:Kyurem
+5:Landorus
+6:Giratina
+7:Weavile
+8:Ditto
+9:Kangaskhan
+10:Aegislash
+11:Talonflame
+12:Terrakion
+13:Ferrothorn
+14:Whimsicott
+15:Cresselia
+16:Kyogre
+17:Salamence
+18:Salamence
+19:Scizor
+20:Chansey

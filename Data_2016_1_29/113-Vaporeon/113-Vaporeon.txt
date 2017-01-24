@@ -1,0 +1,86 @@
+113:Vaporeon|12
+ ---------- 
+Moves used:
+1:Scald,100.0%,12.0
+2:Muddy Water,50.0%,6.0
+3:Signal Beam,50.0%,6.0
+4:Helping Hand,50.0%,6.0
+5:Icy Wind,50.0%,6.0
+6:Baby-Doll Eyes,41.6666666667%,5.0
+7:Ice Beam,41.6666666667%,5.0
+8:Detect,8.33333333333%,1.0
+9:Haze,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,50.0%,6.0
+2:Leftovers,41.6666666667%,5.0
+3:Sitrus Berry,8.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,12.0
+
+ ---------- 
+Natures used:
+1:Calm,50.0%,6.0
+2:Modest,50.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Togekiss
+4:Metagross
+5:Kangaskhan
+6:Weavile
+7:Xerneas
+8:Sylveon
+9:Jolteon
+10:Ferrothorn
+11:Umbreon
+12:Espeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,38.8888888889%,4.66666666667
+2:Muddy Water,22.2222222222%,2.66666666667
+3:Icy Wind,22.2222222222%,2.66666666667
+4:Ice Beam,16.6666666667%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,26.6666666667%,3.2
+2:Double-Edge,20.0%,2.4
+3:Precipice Blades,13.3333333333%,1.6
+4:Dazzling Gleam,6.66666666667%,0.8
+5:Earth Power,6.66666666667%,0.8
+6:Extreme Speed,6.66666666667%,0.8
+7:Frustration,6.66666666667%,0.8
+8:Return,6.66666666667%,0.8
+9:Thunder,6.66666666667%,0.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Kyogre
+4:Yveltal
+5:Chandelure
+6:Liepard
+7:Giratina
+8:Weavile
+9:Rayquaza
+10:Mawile
+11:Smeargle
+12:Crobat
+13:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Ferrothorn
+3:Groudon
+4:Xerneas
+5:Rayquaza
+6:Kyogre

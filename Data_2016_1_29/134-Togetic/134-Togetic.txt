@@ -1,0 +1,75 @@
+134:Togetic|16
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,16.0
+2:After You,62.5%,10.0
+3:Tailwind,56.25%,9.0
+4:Magic Coat,56.25%,9.0
+5:Thunder Wave,37.5%,6.0
+6:Encore,25.0%,4.0
+7:Dazzling Gleam,18.75%,3.0
+8:Roost,18.75%,3.0
+9:Protect,18.75%,3.0
+10:Water Pulse,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,16.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,56.25%,9.0
+2:Serene Grace,43.75%,7.0
+
+ ---------- 
+Natures used:
+1:Sassy,62.5%,10.0
+2:Calm,31.25%,5.0
+3:Bold,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Raichu
+4:Smeargle
+5:Scizor
+6:Xerneas
+7:Groudon
+8:Kangaskhan
+9:Gengar
+10:Heatran
+11:Metagross
+12:Mawile
+13:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,18.1818181818%,2.90909090909
+2:Dragon Ascent,9.09090909091%,1.45454545455
+3:Dazzling Gleam,9.09090909091%,1.45454545455
+4:Moonblast,9.09090909091%,1.45454545455
+5:Iron Head,9.09090909091%,1.45454545455
+6:Brave Bird,9.09090909091%,1.45454545455
+7:Gyro Ball,9.09090909091%,1.45454545455
+8:Water Spout,9.09090909091%,1.45454545455
+9:Hyper Voice,9.09090909091%,1.45454545455
+10:Eruption,9.09090909091%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Talonflame
+4:Ferrothorn
+5:Rayquaza
+6:Groudon
+7:Salamence
+8:Mawile
+9:Ditto

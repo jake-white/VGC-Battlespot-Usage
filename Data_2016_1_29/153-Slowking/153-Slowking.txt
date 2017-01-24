@@ -1,0 +1,53 @@
+153:Slowking|2
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,2.0
+2:Safeguard,100.0%,2.0
+3:Swagger,100.0%,2.0
+4:Skill Swap,50.0%,1.0
+5:Protect,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Talonflame
+3:Groudon
+4:Ferrothorn
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.2857142857%,0.285714285714
+2:Dazzling Gleam,14.2857142857%,0.285714285714
+3:Power Whip,14.2857142857%,0.285714285714
+4:U-turn,14.2857142857%,0.285714285714
+5:Eruption,14.2857142857%,0.285714285714
+6:Extreme Speed,14.2857142857%,0.285714285714
+7:Thief,14.2857142857%,0.285714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Rayquaza

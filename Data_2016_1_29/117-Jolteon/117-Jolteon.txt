@@ -1,0 +1,91 @@
+117:Jolteon|23
+ ---------- 
+Moves used:
+1:Thunder,91.3043478261%,21.0
+2:Fake Tears,86.9565217391%,20.0
+3:Charm,78.2608695652%,18.0
+4:Protect,78.2608695652%,18.0
+5:Magnet Rise,8.69565217391%,2.0
+6:Hidden Power,8.69565217391%,2.0
+7:Baton Pass,8.69565217391%,2.0
+8:Detect,8.69565217391%,2.0
+9:Thunder Wave,8.69565217391%,2.0
+10:Thunderbolt,8.69565217391%,2.0
+11:Volt Switch,4.34782608696%,1.0
+12:Yawn,4.34782608696%,1.0
+13:Shadow Ball,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,78.2608695652%,18.0
+2:Focus Sash,8.69565217391%,2.0
+3:Shuca Berry,8.69565217391%,2.0
+4:Choice Specs,4.34782608696%,1.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Modest,86.9565217391%,20.0
+2:Timid,13.0434782609%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Crobat
+4:Gengar
+5:Xerneas
+6:Sylveon
+7:Mawile
+8:Vaporeon
+9:Talonflame
+10:Umbreon
+11:Espeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunder,66.6666666667%,15.3333333333
+2:Volt Switch,11.1111111111%,2.55555555556
+3:Hidden Power,11.1111111111%,2.55555555556
+4:Thunderbolt,11.1111111111%,2.55555555556
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,15.7894736842%,3.63157894737
+2:Precipice Blades,10.5263157895%,2.42105263158
+3:Dazzling Gleam,10.5263157895%,2.42105263158
+4:Power Whip,10.5263157895%,2.42105263158
+5:Dragon Ascent,5.26315789474%,1.21052631579
+6:Origin Pulse,5.26315789474%,1.21052631579
+7:Play Rough,5.26315789474%,1.21052631579
+8:Scald,5.26315789474%,1.21052631579
+9:Earth Power,5.26315789474%,1.21052631579
+10:Knock Off,5.26315789474%,1.21052631579
+11:Extreme Speed,5.26315789474%,1.21052631579
+12:Mach Punch,5.26315789474%,1.21052631579
+13:High Jump Kick,5.26315789474%,1.21052631579
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Yveltal
+3:Togekiss
+4:Groudon
+5:Mawile
+6:Scizor
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Ferrothorn
+5:Rayquaza
+6:Weavile
+7:Lopunny
+8:Mawile
+9:Breloom

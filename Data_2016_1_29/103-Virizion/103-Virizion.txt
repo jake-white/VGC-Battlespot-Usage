@@ -1,0 +1,93 @@
+103:Virizion|29
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,29.0
+2:Leaf Blade,96.5517241379%,28.0
+3:Protect,93.1034482759%,27.0
+4:Helping Hand,58.6206896552%,17.0
+5:Stone Edge,24.1379310345%,7.0
+6:Double Kick,13.7931034483%,4.0
+7:Quick Guard,6.89655172414%,2.0
+8:Worry Seed,3.44827586207%,1.0
+9:Aerial Ace,3.44827586207%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,55.1724137931%,16.0
+2:Life Orb,17.2413793103%,5.0
+3:Lum Berry,17.2413793103%,5.0
+4:Expert Belt,10.3448275862%,3.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,29.0
+
+ ---------- 
+Natures used:
+1:Adamant,55.1724137931%,16.0
+2:Jolly,44.8275862069%,13.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Talonflame
+3:Mawile
+4:Dialga
+5:Groudon
+6:Meowstic
+7:Xerneas
+8:Kangaskhan
+9:Smeargle
+10:Yveltal
+11:Kyurem
+12:Landorus
+13:Terrakion
+14:Whimsicott
+15:Heatran
+16:Metagross
+17:Ho-Oh
+18:Mewtwo
+19:Gengar
+20:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Blade,71.4285714286%,20.7142857143
+2:Close Combat,28.5714285714%,8.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flamethrower,15.3846153846%,4.46153846154
+2:Moonblast,7.69230769231%,2.23076923077
+3:Brave Bird,7.69230769231%,2.23076923077
+4:Gyro Ball,7.69230769231%,2.23076923077
+5:Dragon Claw,7.69230769231%,2.23076923077
+6:Superpower,7.69230769231%,2.23076923077
+7:Sacred Fire,7.69230769231%,2.23076923077
+8:Aeroblast,7.69230769231%,2.23076923077
+9:Earthquake,7.69230769231%,2.23076923077
+10:Ice Beam,7.69230769231%,2.23076923077
+11:Double-Edge,7.69230769231%,2.23076923077
+12:Fire Punch,7.69230769231%,2.23076923077
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Ferrothorn
+4:Lopunny
+5:Kyogre
+6:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Landorus
+3:Xerneas
+4:Talonflame
+5:Ferrothorn
+6:Rayquaza
+7:Kyogre
+8:Ho-Oh
+9:Lugia
+10:Kangaskhan

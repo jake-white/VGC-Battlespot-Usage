@@ -1,0 +1,62 @@
+148:Uxie|12
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,12.0
+2:Foul Play,91.6666666667%,11.0
+3:Helping Hand,91.6666666667%,11.0
+4:Trick Room,66.6666666667%,8.0
+5:Thunder Wave,33.3333333333%,4.0
+6:Magic Coat,8.33333333333%,1.0
+7:Heal Bell,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,66.6666666667%,8.0
+2:Rocky Helmet,25.0%,3.0
+3:Sitrus Berry,8.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,12.0
+
+ ---------- 
+Natures used:
+1:Bold,91.6666666667%,11.0
+2:Timid,8.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Mienshao
+4:Kyogre
+5:Ferrothorn
+6:Salamence
+7:Swampert
+8:Tornadus
+9:Rayquaza
+10:Mawile
+11:Smeargle
+12:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,2.0
+2:Dazzling Gleam,16.6666666667%,2.0
+3:Moonblast,16.6666666667%,2.0
+4:Shadow Sneak,16.6666666667%,2.0
+5:Icy Wind,16.6666666667%,2.0
+6:Fire Blast,16.6666666667%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Cresselia
+4:Giratina

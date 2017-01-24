@@ -1,0 +1,42 @@
+189:Chatot|1
+ ---------- 
+Moves used:
+1:Chatter,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Mirror Move,100.0%,1.0
+4:Mimic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Charti Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Keen Eye,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Ditto
+3:Liepard
+4:Lopunny
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Psychic,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Espeon

@@ -1,0 +1,60 @@
+111:Probopass|24
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,24.0
+2:Magic Coat,100.0%,24.0
+3:Pain Split,100.0%,24.0
+4:Taunt,79.1666666667%,19.0
+5:Protect,20.8333333333%,5.0
+
+ ---------- 
+Items used:
+1:Berry Juice,100.0%,24.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,24.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,24.0
+
+ ---------- 
+Top teammates:
+1:Carbink
+2:Groudon
+3:Venusaur
+4:Aurorus
+5:Giratina
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,20.0%,4.8
+2:Fake Out,15.0%,3.6
+3:Double-Edge,10.0%,2.4
+4:Dazzling Gleam,5.0%,1.2
+5:Brave Bird,5.0%,1.2
+6:Air Slash,5.0%,1.2
+7:Flare Blitz,5.0%,1.2
+8:Overheat,5.0%,1.2
+9:Hyper Voice,5.0%,1.2
+10:Beat Up,5.0%,1.2
+11:Low Kick,5.0%,1.2
+12:Fire Punch,5.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Talonflame
+3:Xerneas
+4:Whimsicott
+5:Liepard
+6:Togekiss
+7:Groudon
+8:Salamence

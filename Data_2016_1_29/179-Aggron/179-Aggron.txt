@@ -1,0 +1,45 @@
+179:Aggron|4
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,4.0
+2:Metal Burst,100.0%,4.0
+3:Endeavor,100.0%,4.0
+4:Protect,75.0%,3.0
+5:Reversal,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Aerodactyl
+2:Sableye
+3:Talonflame
+4:Garchomp
+5:Ludicolo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Metal Burst,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,100.0%,4.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile

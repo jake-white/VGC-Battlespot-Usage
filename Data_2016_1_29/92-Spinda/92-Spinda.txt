@@ -1,0 +1,66 @@
+92:Spinda|35
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,35.0
+2:Icy Wind,100.0%,35.0
+3:Copycat,94.2857142857%,33.0
+4:Helping Hand,94.2857142857%,33.0
+5:Fake Out,5.71428571429%,2.0
+6:Encore,5.71428571429%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,35.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,35.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,35.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Landorus
+3:Kyogre
+4:Ferrothorn
+5:Liepard
+6:Palkia
+7:Whimsicott
+8:Greninja
+9:Mawile
+10:Accelgor
+11:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,100.0%,35.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,5.83333333333
+2:Double-Edge,16.6666666667%,5.83333333333
+3:Dragon Ascent,8.33333333333%,2.91666666667
+4:Origin Pulse,8.33333333333%,2.91666666667
+5:Dragon Pulse,8.33333333333%,2.91666666667
+6:Water Spout,8.33333333333%,2.91666666667
+7:Rock Slide,8.33333333333%,2.91666666667
+8:Explosion,8.33333333333%,2.91666666667
+9:Thunderbolt,8.33333333333%,2.91666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Landorus
+4:Thundurus
+5:Dialga
+6:Rayquaza
+7:Salamence
+8:Kangaskhan

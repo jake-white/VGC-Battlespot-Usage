@@ -1,0 +1,136 @@
+49:Lapras|181
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,181.0
+2:Ice Shard,98.8950276243%,179.0
+3:Hydro Pump,97.2375690608%,176.0
+4:Sheer Cold,81.2154696133%,147.0
+5:Surf,6.62983425414%,12.0
+6:Icy Wind,3.86740331492%,7.0
+7:Ancient Power,3.31491712707%,6.0
+8:Bulldoze,2.20994475138%,4.0
+9:Water Pulse,2.20994475138%,4.0
+10:Protect,2.20994475138%,4.0
+11:Psychic,1.10497237569%,2.0
+12:Signal Beam,0.552486187845%,1.0
+13:Thunder,0.552486187845%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,98.8950276243%,179.0
+2:Sitrus Berry,0.552486187845%,1.0
+3:Lum Berry,0.552486187845%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,97.7900552486%,177.0
+2:Shell Armor,2.20994475138%,4.0
+
+ ---------- 
+Natures used:
+1:Sassy,69.6132596685%,126.0
+2:Quiet,14.9171270718%,27.0
+3:Modest,8.83977900552%,16.0
+4:Relaxed,4.41988950276%,8.0
+5:Bold,2.20994475138%,4.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Togekiss
+4:Groudon
+5:Mienshao
+6:Klefki
+7:Ferrothorn
+8:Xerneas
+9:Liepard
+10:Mawile
+11:Kangaskhan
+12:Yveltal
+13:Crobat
+14:Kyogre
+15:Cresselia
+16:Gengar
+17:Landorus
+18:Thundurus
+19:Palkia
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,43.0894308943%,77.9918699187
+2:Ice Shard,28.4552845528%,51.5040650407
+3:Sheer Cold,14.6341463415%,26.487804878
+4:Hydro Pump,13.0081300813%,23.5447154472
+5:Surf,0.813008130081%,1.47154471545
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,8.18181818182%,14.8090909091
+2:Dragon Ascent,7.27272727273%,13.1636363636
+3:Rock Slide,7.27272727273%,13.1636363636
+4:Sucker Punch,6.36363636364%,11.5181818182
+5:Low Kick,6.36363636364%,11.5181818182
+6:Extreme Speed,5.45454545455%,9.87272727273
+7:Dazzling Gleam,4.54545454545%,8.22727272727
+8:Moonblast,4.54545454545%,8.22727272727
+9:Brave Bird,4.54545454545%,8.22727272727
+10:Thunderbolt,4.54545454545%,8.22727272727
+11:Double-Edge,4.54545454545%,8.22727272727
+12:Foul Play,3.63636363636%,6.58181818182
+13:Eruption,3.63636363636%,6.58181818182
+14:Precipice Blades,2.72727272727%,4.93636363636
+15:Dragon Pulse,2.72727272727%,4.93636363636
+16:Ice Beam,2.72727272727%,4.93636363636
+17:Iron Head,1.81818181818%,3.29090909091
+18:Volt Tackle,1.81818181818%,3.29090909091
+19:Knock Off,1.81818181818%,3.29090909091
+20:Superpower,1.81818181818%,3.29090909091
+0:Other,12.7272727273%,23.0363636364
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Xerneas
+5:Talonflame
+6:Landorus
+7:Thundurus
+8:Cresselia
+9:Salamence
+10:Kangaskhan
+11:Gengar
+12:Liepard
+13:Palkia
+14:Togekiss
+15:Rayquaza
+16:Mawile
+17:Smeargle
+18:Crobat
+19:Tornadus
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Ferrothorn
+4:Kangaskhan
+5:Xerneas
+6:Landorus
+7:Kyogre
+8:Thundurus
+9:Mawile
+10:Liepard
+11:Ho-Oh
+12:Dialga
+13:Salamence
+14:Yveltal
+15:Talonflame
+16:Rayquaza
+17:Raichu
+18:Greninja
+19:Whimsicott
+20:Giratina

@@ -1,0 +1,85 @@
+94:Aron|35
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,35.0
+2:Protect,100.0%,35.0
+3:Sandstorm,65.7142857143%,23.0
+4:Swagger,48.5714285714%,17.0
+5:Toxic,37.1428571429%,13.0
+6:Rock Tomb,34.2857142857%,12.0
+7:Tackle,14.2857142857%,5.0
+
+ ---------- 
+Items used:
+1:Berry Juice,65.7142857143%,23.0
+2:Shell Bell,34.2857142857%,12.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,35.0
+
+ ---------- 
+Natures used:
+1:Timid,48.5714285714%,17.0
+2:Careful,31.4285714286%,11.0
+3:Naughty,14.2857142857%,5.0
+4:Quirky,2.85714285714%,1.0
+5:Docile,2.85714285714%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Infernape
+4:Groudon
+5:Liepard
+6:Kangaskhan
+7:Landorus
+8:Palkia
+9:Zapdos
+10:Mr. Mime
+11:Meowstic
+12:Aegislash
+13:Talonflame
+14:Amoonguss
+15:Lugia
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.8148148148%,5.18518518519
+2:Hyper Voice,11.1111111111%,3.88888888889
+3:Eruption,11.1111111111%,3.88888888889
+4:Precipice Blades,7.40740740741%,2.59259259259
+5:Water Spout,7.40740740741%,2.59259259259
+6:Low Kick,7.40740740741%,2.59259259259
+7:Origin Pulse,3.7037037037%,1.2962962963
+8:Power-Up Punch,3.7037037037%,1.2962962963
+9:Scald,3.7037037037%,1.2962962963
+10:Foul Play,3.7037037037%,1.2962962963
+11:Earth Power,3.7037037037%,1.2962962963
+12:Dragon Pulse,3.7037037037%,1.2962962963
+13:Flare Blitz,3.7037037037%,1.2962962963
+14:Extreme Speed,3.7037037037%,1.2962962963
+15:Rock Slide,3.7037037037%,1.2962962963
+16:Double-Edge,3.7037037037%,1.2962962963
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Sylveon
+7:Talonflame
+8:Liepard
+9:Dialga
+10:Rayquaza
+11:Smeargle
+12:Ditto

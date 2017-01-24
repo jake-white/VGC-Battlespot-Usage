@@ -1,0 +1,54 @@
+165:Carracosta|7
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,7.0
+2:Aqua Jet,100.0%,7.0
+3:Rock Slide,100.0%,7.0
+4:Icy Wind,71.4285714286%,5.0
+5:Superpower,28.5714285714%,2.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,71.4285714286%,5.0
+2:Sturdy,28.5714285714%,2.0
+
+ ---------- 
+Natures used:
+1:Brave,71.4285714286%,5.0
+2:Adamant,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Ditto
+3:Rayquaza
+4:Dialga
+5:Mawile
+6:Kangaskhan
+7:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,75.0%,5.25
+2:Aqua Jet,25.0%,1.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Draco Meteor,33.3333333333%,2.33333333333
+2:Earth Power,33.3333333333%,2.33333333333
+3:Low Kick,33.3333333333%,2.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Kangaskhan

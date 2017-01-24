@@ -1,0 +1,89 @@
+131:Heliolisk|16
+ ---------- 
+Moves used:
+1:Hyper Voice,93.75%,15.0
+2:Thunder,87.5%,14.0
+3:Volt Switch,62.5%,10.0
+4:Hyper Beam,62.5%,10.0
+5:Dragon Pulse,18.75%,3.0
+6:Thunderbolt,18.75%,3.0
+7:Parabolic Charge,12.5%,2.0
+8:Protect,12.5%,2.0
+9:Glare,12.5%,2.0
+10:Round,6.25%,1.0
+11:Grass Knot,6.25%,1.0
+12:Focus Blast,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,81.25%,13.0
+2:Focus Sash,6.25%,1.0
+3:Life Orb,6.25%,1.0
+4:Leftovers,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,87.5%,14.0
+2:Dry Skin,12.5%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,93.75%,15.0
+2:Modest,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Liepard
+3:Metagross
+4:Xerneas
+5:Ho-Oh
+6:Groudon
+7:Talonflame
+8:Ambipom
+9:Gastrodon
+10:Crobat
+11:Klefki
+12:Meowstic
+13:Conkeldurr
+14:Rayquaza
+15:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,53.8461538462%,8.61538461538
+2:Hyper Beam,23.0769230769%,3.69230769231
+3:Volt Switch,7.69230769231%,1.23076923077
+4:Dragon Pulse,7.69230769231%,1.23076923077
+5:Thunderbolt,7.69230769231%,1.23076923077
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.2727272727%,4.36363636364
+2:Origin Pulse,18.1818181818%,2.90909090909
+3:Precipice Blades,9.09090909091%,1.45454545455
+4:Sacred Sword,9.09090909091%,1.45454545455
+5:Water Spout,9.09090909091%,1.45454545455
+6:Earthquake,9.09090909091%,1.45454545455
+7:Thunderbolt,9.09090909091%,1.45454545455
+8:Double-Edge,9.09090909091%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Xerneas
+4:Liepard
+5:Rayquaza
+6:Kyogre
+7:Salamence
+8:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Aegislash
+5:Thundurus
+6:Salamence

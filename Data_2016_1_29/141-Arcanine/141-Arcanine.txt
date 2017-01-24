@@ -1,0 +1,83 @@
+141:Arcanine|14
+ ---------- 
+Moves used:
+1:Flare Blitz,78.5714285714%,11.0
+2:Close Combat,78.5714285714%,11.0
+3:Extreme Speed,78.5714285714%,11.0
+4:Wild Charge,57.1428571429%,8.0
+5:Snarl,21.4285714286%,3.0
+6:Will-O-Wisp,21.4285714286%,3.0
+7:Heat Wave,21.4285714286%,3.0
+8:Morning Sun,21.4285714286%,3.0
+9:Protect,21.4285714286%,3.0
+
+ ---------- 
+Items used:
+1:Choice Band,57.1428571429%,8.0
+2:Sitrus Berry,42.8571428571%,6.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,85.7142857143%,12.0
+2:Flash Fire,14.2857142857%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,78.5714285714%,11.0
+2:Bold,21.4285714286%,3.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Togekiss
+4:Aegislash
+5:Groudon
+6:Liepard
+7:Lopunny
+8:Breloom
+9:Smeargle
+10:Kyurem
+11:Thundurus
+12:Amoonguss
+13:Cresselia
+14:Giratina
+15:Giratina
+16:Abomasnow
+17:Rayquaza
+18:Gardevoir
+19:Porygon2
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,66.6666666667%,9.33333333333
+2:Extreme Speed,33.3333333333%,4.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,18.1818181818%,2.54545454545
+2:Earth Power,18.1818181818%,2.54545454545
+3:Precipice Blades,9.09090909091%,1.27272727273
+4:Oblivion Wing,9.09090909091%,1.27272727273
+5:Dazzling Gleam,9.09090909091%,1.27272727273
+6:Psystrike,9.09090909091%,1.27272727273
+7:Brave Bird,9.09090909091%,1.27272727273
+8:Water Spout,9.09090909091%,1.27272727273
+9:Double-Edge,9.09090909091%,1.27272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Bisharp
+2:Ferrothorn
+3:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Ho-Oh
+6:Mewtwo
+7:Kangaskhan

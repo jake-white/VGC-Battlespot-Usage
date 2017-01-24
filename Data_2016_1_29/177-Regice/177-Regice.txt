@@ -1,0 +1,48 @@
+177:Regice|1
+ ---------- 
+Moves used:
+1:Sleep Talk,100.0%,1.0
+2:Thunderbolt,100.0%,1.0
+3:Blizzard,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Abomasnow
+4:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Psyshock,25.0%,0.25
+2:Iron Head,25.0%,0.25
+3:Sucker Punch,25.0%,0.25
+4:Water Spout,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Aegislash
+3:Cresselia
+4:Kyogre

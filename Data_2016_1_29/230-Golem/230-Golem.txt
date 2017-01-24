@@ -1,0 +1,39 @@
+230:Golem|1
+ ---------- 
+Moves used:
+1:Stealth Rock,100.0%,1.0
+2:Rock Blast,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Explosion,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Kyogre
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

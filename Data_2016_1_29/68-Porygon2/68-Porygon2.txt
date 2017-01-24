@@ -1,0 +1,135 @@
+68:Porygon2|85
+ ---------- 
+Moves used:
+1:Trick Room,94.1176470588%,80.0
+2:Ice Beam,94.1176470588%,80.0
+3:Recover,54.1176470588%,46.0
+4:Tri Attack,48.2352941176%,41.0
+5:Gravity,25.8823529412%,22.0
+6:Hyper Beam,20.0%,17.0
+7:Shadow Ball,18.8235294118%,16.0
+8:Magic Coat,14.1176470588%,12.0
+9:Thunderbolt,12.9411764706%,11.0
+10:Foul Play,5.88235294118%,5.0
+11:Psychic,5.88235294118%,5.0
+12:Hidden Power,3.52941176471%,3.0
+13:Discharge,1.17647058824%,1.0
+14:Thunder Wave,1.17647058824%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,85.0
+
+ ---------- 
+Abilities used:
+1:Download,97.6470588235%,83.0
+2:Trace,2.35294117647%,2.0
+
+ ---------- 
+Natures used:
+1:Quiet,38.8235294118%,33.0
+2:Bold,28.2352941176%,24.0
+3:Modest,21.1764705882%,18.0
+4:Sassy,5.88235294118%,5.0
+5:Relaxed,5.88235294118%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Mawile
+4:Yveltal
+5:Giratina
+6:Xerneas
+7:Hydreigon
+8:Kyogre
+9:Rayquaza
+10:Dialga
+11:Thundurus
+12:Salamence
+13:Smeargle
+14:Kyurem
+15:Ferrothorn
+16:Whimsicott
+17:Liepard
+18:Togekiss
+19:Gengar
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,66.6666666667%,56.6666666667
+2:Tri Attack,21.2121212121%,18.0303030303
+3:Hyper Beam,6.06060606061%,5.15151515152
+4:Hidden Power,3.0303030303%,2.57575757576
+5:Psychic,3.0303030303%,2.57575757576
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.1694915254%,8.64406779661
+2:Double-Edge,10.1694915254%,8.64406779661
+3:Precipice Blades,6.77966101695%,5.76271186441
+4:Origin Pulse,6.77966101695%,5.76271186441
+5:Eruption,6.77966101695%,5.76271186441
+6:Iron Head,5.08474576271%,4.32203389831
+7:Brave Bird,5.08474576271%,4.32203389831
+8:Low Kick,5.08474576271%,4.32203389831
+9:Moonblast,3.38983050847%,2.8813559322
+10:Flash Cannon,3.38983050847%,2.8813559322
+11:Sucker Punch,3.38983050847%,2.8813559322
+12:Water Spout,3.38983050847%,2.8813559322
+13:Hyper Voice,3.38983050847%,2.8813559322
+14:Rock Slide,3.38983050847%,2.8813559322
+15:Oblivion Wing,1.69491525424%,1.4406779661
+16:Scald,1.69491525424%,1.4406779661
+17:Foul Play,1.69491525424%,1.4406779661
+18:Power Whip,1.69491525424%,1.4406779661
+19:Draco Meteor,1.69491525424%,1.4406779661
+20:Overheat,1.69491525424%,1.4406779661
+0:Other,13.5593220339%,11.5254237288
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Landorus
+4:Liepard
+5:Rayquaza
+6:Lugia
+7:Crobat
+8:Kangaskhan
+9:Xerneas
+10:Talonflame
+11:Thundurus
+12:Tornadus
+13:Mienshao
+14:Ferrothorn
+15:Amoonguss
+16:Cresselia
+17:Palkia
+18:Weavile
+19:Kyogre
+20:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Kyogre
+5:Talonflame
+6:Salamence
+7:Yveltal
+8:Giratina
+9:Mawile
+10:Landorus
+11:Thundurus
+12:Terrakion
+13:Mienshao
+14:Ferrothorn
+15:Liepard
+16:Cresselia
+17:Heatran
+18:Dialga
+19:Weavile
+20:Infernape

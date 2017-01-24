@@ -1,0 +1,97 @@
+97:Gourgeist-Super|34
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,34.0
+2:Seed Bomb,70.5882352941%,24.0
+3:Destiny Bond,50.0%,17.0
+4:Protect,44.1176470588%,15.0
+5:Trick-or-Treat,41.1764705882%,14.0
+6:Skill Swap,32.3529411765%,11.0
+7:Rock Slide,29.4117647059%,10.0
+8:Magic Coat,17.6470588235%,6.0
+9:Will-O-Wisp,8.82352941176%,3.0
+10:Worry Seed,2.94117647059%,1.0
+11:Pain Split,2.94117647059%,1.0
+
+ ---------- 
+Items used:
+1:Occa Berry,41.1764705882%,14.0
+2:Coba Berry,38.2352941176%,13.0
+3:Focus Sash,17.6470588235%,6.0
+4:Mental Herb,2.94117647059%,1.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Sassy,76.4705882353%,26.0
+2:Brave,17.6470588235%,6.0
+3:Relaxed,5.88235294118%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Palkia
+4:Landorus
+5:Liepard
+6:Groudon
+7:Yveltal
+8:Kangaskhan
+9:Ferrothorn
+10:Talonflame
+11:Cresselia
+12:Dialga
+13:Infernape
+14:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,50.0%,17.0
+2:Seed Bomb,42.8571428571%,14.5714285714
+3:Rock Slide,7.14285714286%,2.42857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,26.0869565217%,8.86956521739
+2:Eruption,17.3913043478%,5.91304347826
+3:Grass Knot,8.69565217391%,2.95652173913
+4:Clear Smog,4.34782608696%,1.47826086957
+5:Brave Bird,4.34782608696%,1.47826086957
+6:Dark Pulse,4.34782608696%,1.47826086957
+7:Flare Blitz,4.34782608696%,1.47826086957
+8:Gyro Ball,4.34782608696%,1.47826086957
+9:Hyper Voice,4.34782608696%,1.47826086957
+10:Knock Off,4.34782608696%,1.47826086957
+11:Psychic,4.34782608696%,1.47826086957
+12:Ice Beam,4.34782608696%,1.47826086957
+13:Double-Edge,4.34782608696%,1.47826086957
+14:Fire Punch,4.34782608696%,1.47826086957
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Landorus
+3:Groudon
+4:Kyogre
+5:Smeargle
+6:Talonflame
+7:Amoonguss
+8:Altaria
+9:Swampert
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Amoonguss
+4:Talonflame
+5:Landorus
+6:Hydreigon
+7:Ferrothorn
+8:Cresselia
+9:Kyogre
+10:Altaria
+11:Kangaskhan

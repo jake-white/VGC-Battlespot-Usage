@@ -1,0 +1,111 @@
+78:Rotom-H|57
+ ---------- 
+Moves used:
+1:Overheat,100.0%,57.0
+2:Thunderbolt,91.2280701754%,52.0
+3:Will-O-Wisp,50.8771929825%,29.0
+4:Psych Up,33.3333333333%,19.0
+5:Thunder Wave,33.3333333333%,19.0
+6:Light Screen,28.0701754386%,16.0
+7:Protect,26.3157894737%,15.0
+8:Volt Switch,15.7894736842%,9.0
+9:Thunder,8.77192982456%,5.0
+10:Trick,7.01754385965%,4.0
+11:Snatch,3.50877192982%,2.0
+12:Hidden Power,1.75438596491%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,84.2105263158%,48.0
+2:Choice Specs,7.01754385965%,4.0
+3:Expert Belt,7.01754385965%,4.0
+4:Choice Scarf,1.75438596491%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,57.0
+
+ ---------- 
+Natures used:
+1:Modest,47.3684210526%,27.0
+2:Calm,40.350877193%,23.0
+3:Timid,7.01754385965%,4.0
+4:Bold,5.26315789474%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Groudon
+6:Infernape
+7:Crobat
+8:Smeargle
+9:Talonflame
+10:Ferrothorn
+11:Cresselia
+12:Whimsicott
+13:Azumarill
+14:Kangaskhan
+15:Gengar
+16:Mienshao
+17:Aegislash
+18:Meowstic
+19:Terrakion
+20:Conkeldurr
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,46.1538461538%,26.3076923077
+2:Overheat,26.9230769231%,15.3461538462
+3:Thunder,23.0769230769%,13.1538461538
+4:Volt Switch,3.84615384615%,2.19230769231
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,14.7058823529%,8.38235294118
+2:Origin Pulse,11.7647058824%,6.70588235294
+3:Dazzling Gleam,11.7647058824%,6.70588235294
+4:Rock Slide,11.7647058824%,6.70588235294
+5:Double-Edge,11.7647058824%,6.70588235294
+6:Dragon Ascent,5.88235294118%,3.35294117647
+7:Moonblast,5.88235294118%,3.35294117647
+8:Draco Meteor,5.88235294118%,3.35294117647
+9:Precipice Blades,2.94117647059%,1.67647058824
+10:Scald,2.94117647059%,1.67647058824
+11:Sucker Punch,2.94117647059%,1.67647058824
+12:Eruption,2.94117647059%,1.67647058824
+13:Extreme Speed,2.94117647059%,1.67647058824
+14:Sludge Bomb,2.94117647059%,1.67647058824
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kyogre
+4:Crobat
+5:Thundurus
+6:Liepard
+7:Smeargle
+8:Aegislash
+9:Tornadus
+10:Amoonguss
+11:Gothitelle
+12:Kangaskhan
+13:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Rayquaza
+6:Greninja
+7:Terrakion
+8:Dialga
+9:Kyogre
+10:Salamence
+11:Mawile
+12:Gengar

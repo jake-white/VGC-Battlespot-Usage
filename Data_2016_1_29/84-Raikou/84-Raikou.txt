@@ -1,0 +1,113 @@
+84:Raikou|44
+ ---------- 
+Moves used:
+1:Snarl,100.0%,44.0
+2:Thunderbolt,100.0%,44.0
+3:Hidden Power,61.3636363636%,27.0
+4:Thunder,59.0909090909%,26.0
+5:Volt Switch,34.0909090909%,15.0
+6:Protect,34.0909090909%,15.0
+7:Reflect,4.54545454545%,2.0
+8:Light Screen,4.54545454545%,2.0
+9:Shadow Ball,2.27272727273%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,61.3636363636%,27.0
+2:Sitrus Berry,34.0909090909%,15.0
+3:Light Clay,4.54545454545%,2.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,44.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,44.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Groudon
+4:Salamence
+5:Latios
+6:Ferrothorn
+7:Mewtwo
+8:Meowstic
+9:Whimsicott
+10:Kangaskhan
+11:Kyurem
+12:Ditto
+13:Aegislash
+14:Talonflame
+15:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,61.9047619048%,27.2380952381
+2:Snarl,14.2857142857%,6.28571428571
+3:Volt Switch,9.52380952381%,4.19047619048
+4:Hidden Power,9.52380952381%,4.19047619048
+5:Thunder,4.7619047619%,2.09523809524
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.09090909091%,4.0
+2:Double-Edge,9.09090909091%,4.0
+3:Dragon Ascent,6.06060606061%,2.66666666667
+4:Origin Pulse,6.06060606061%,2.66666666667
+5:Draco Meteor,6.06060606061%,2.66666666667
+6:Sucker Punch,6.06060606061%,2.66666666667
+7:Return,6.06060606061%,2.66666666667
+8:Rock Slide,6.06060606061%,2.66666666667
+9:Ice Beam,6.06060606061%,2.66666666667
+10:Precipice Blades,3.0303030303%,1.33333333333
+11:Moonblast,3.0303030303%,1.33333333333
+12:Play Rough,3.0303030303%,1.33333333333
+13:Power Whip,3.0303030303%,1.33333333333
+14:Earth Power,3.0303030303%,1.33333333333
+15:Brave Bird,3.0303030303%,1.33333333333
+16:Flare Blitz,3.0303030303%,1.33333333333
+17:Water Spout,3.0303030303%,1.33333333333
+18:Hyper Voice,3.0303030303%,1.33333333333
+19:Shadow Ball,3.0303030303%,1.33333333333
+20:Sacred Fire,3.0303030303%,1.33333333333
+0:Other,3.0303030303%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Togekiss
+3:Liepard
+4:Cresselia
+5:Groudon
+6:Kangaskhan
+7:Yveltal
+8:Xerneas
+9:Greninja
+10:Dialga
+11:Rayquaza
+12:Salamence
+13:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Rayquaza
+4:Salamence
+5:Talonflame
+6:Groudon
+7:Kyogre
+8:Yveltal
+9:Kyurem
+10:Landorus
+11:Terrakion
+12:Ferrothorn
+13:Giratina
+14:Gastrodon
+15:Mawile
+16:Ho-Oh
+17:Smeargle
+18:Crobat

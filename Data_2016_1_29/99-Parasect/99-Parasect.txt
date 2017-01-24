@@ -1,0 +1,89 @@
+99:Parasect|32
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,32.0
+2:Wide Guard,100.0%,32.0
+3:Spore,100.0%,32.0
+4:Protect,68.75%,22.0
+5:Struggle Bug,15.625%,5.0
+6:Seed Bomb,15.625%,5.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,40.625%,13.0
+2:Mental Herb,31.25%,10.0
+3:Focus Sash,28.125%,9.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,62.5%,20.0
+2:Effect Spore,37.5%,12.0
+
+ ---------- 
+Natures used:
+1:Sassy,71.875%,23.0
+2:Relaxed,12.5%,4.0
+3:Brave,9.375%,3.0
+4:Careful,6.25%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Landorus
+3:Palkia
+4:Talonflame
+5:Lugia
+6:Mewtwo
+7:Kyogre
+8:Liepard
+9:Aromatisse
+10:Groudon
+11:Mawile
+12:Ho-Oh
+13:Kangaskhan
+14:Gengar
+15:Jellicent
+16:Rayquaza
+17:Medicham
+18:Yveltal
+19:Darmanitan
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,100.0%,32.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,25.0%,8.0
+2:Fire Punch,12.5%,4.0
+3:Brave Bird,8.33333333333%,2.66666666667
+4:Return,8.33333333333%,2.66666666667
+5:Double-Edge,8.33333333333%,2.66666666667
+6:Moonblast,4.16666666667%,1.33333333333
+7:Play Rough,4.16666666667%,1.33333333333
+8:Dragon Pulse,4.16666666667%,1.33333333333
+9:Air Slash,4.16666666667%,1.33333333333
+10:Dragon Claw,4.16666666667%,1.33333333333
+11:Hyper Voice,4.16666666667%,1.33333333333
+12:Hidden Power,4.16666666667%,1.33333333333
+13:Thunderbolt,4.16666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Talonflame
+4:Thundurus
+5:Salamence
+6:Kangaskhan
+7:Xerneas
+8:Cresselia
+9:Palkia
+10:Togekiss
+11:Lopunny
+12:Mawile

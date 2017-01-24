@@ -1,0 +1,62 @@
+146:Vileplume|13
+ ---------- 
+Moves used:
+1:Protect,100.0%,13.0
+2:Sludge Bomb,84.6153846154%,11.0
+3:Sleep Powder,69.2307692308%,9.0
+4:After You,53.8461538462%,7.0
+5:Moonblast,46.1538461538%,6.0
+6:Grass Knot,46.1538461538%,6.0
+
+ ---------- 
+Items used:
+1:Focus Sash,53.8461538462%,7.0
+2:Life Orb,38.4615384615%,5.0
+3:Sitrus Berry,7.69230769231%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Timid,53.8461538462%,7.0
+2:Modest,46.1538461538%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Sableye
+4:Kangaskhan
+5:Talonflame
+6:Kyogre
+7:Salamence
+8:Scrafty
+9:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,50.0%,6.5
+2:Sludge Bomb,50.0%,6.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,4.33333333333
+2:Water Spout,16.6666666667%,2.16666666667
+3:Hyper Voice,16.6666666667%,2.16666666667
+4:Eruption,16.6666666667%,2.16666666667
+5:Ice Beam,16.6666666667%,2.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyurem
+3:Groudon
+4:Kyogre
+5:Salamence

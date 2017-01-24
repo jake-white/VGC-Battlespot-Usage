@@ -1,0 +1,50 @@
+175:Krookodile|1
+ ---------- 
+Moves used:
+1:Crunch,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Anger Point,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Crobat
+3:Rayquaza
+4:Pinsir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,50.0%,0.5
+2:Earthquake,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Thundurus
+4:Ferrothorn
+5:Cresselia
+6:Weavile
+7:Groudon
+8:Salamence
+9:Mawile
+10:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:

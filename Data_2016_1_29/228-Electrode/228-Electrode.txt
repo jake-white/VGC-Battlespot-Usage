@@ -1,0 +1,41 @@
+228:Electrode|1
+ ---------- 
+Moves used:
+1:Round,100.0%,1.0
+2:Charge Beam,100.0%,1.0
+3:Magic Coat,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Soundproof,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Mewtwo
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Charge Beam,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Extreme Speed,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza

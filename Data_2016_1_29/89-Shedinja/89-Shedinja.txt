@@ -1,0 +1,84 @@
+89:Shedinja|37
+ ---------- 
+Moves used:
+1:Toxic,81.0810810811%,30.0
+2:Will-O-Wisp,75.6756756757%,28.0
+3:Shadow Ball,67.5675675676%,25.0
+4:Confuse Ray,67.5675675676%,25.0
+5:Shadow Sneak,29.7297297297%,11.0
+6:Protect,29.7297297297%,11.0
+7:Endure,13.5135135135%,5.0
+8:Phantom Force,8.10810810811%,3.0
+9:Bug Bite,8.10810810811%,3.0
+10:Sunny Day,8.10810810811%,3.0
+11:Swagger,5.40540540541%,2.0
+12:X-Scissor,2.7027027027%,1.0
+13:Mud-Slap,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,86.4864864865%,32.0
+2:Lum Berry,10.8108108108%,4.0
+3:Safety Goggles,2.7027027027%,1.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Timid,54.0540540541%,20.0
+2:Modest,13.5135135135%,5.0
+3:Naughty,10.8108108108%,4.0
+4:Adamant,8.10810810811%,3.0
+5:Lonely,8.10810810811%,3.0
+6:Brave,5.40540540541%,2.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Sableye
+4:Golduck
+5:Xerneas
+6:Groudon
+7:Ferrothorn
+8:Rotom
+9:Salamence
+10:Gengar
+11:Landorus
+12:Whimsicott
+13:Cresselia
+14:Aegislash
+15:Zekrom
+16:Weavile
+17:Lumineon
+18:Rayquaza
+19:Mawile
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,60.0%,22.2
+2:X-Scissor,20.0%,7.4
+3:Shadow Ball,20.0%,7.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,25.0%,9.25
+2:Dragon Ascent,12.5%,4.625
+3:Smack Down,12.5%,4.625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mienshao
+2:Liepard
+3:Kyogre
+4:Ludicolo
+5:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Greninja
+3:Rayquaza

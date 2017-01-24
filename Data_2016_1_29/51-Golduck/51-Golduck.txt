@@ -1,0 +1,147 @@
+51:Golduck|140
+ ---------- 
+Moves used:
+1:Scald,85.0%,119.0
+2:Ice Beam,69.2857142857%,97.0
+3:Protect,32.1428571429%,45.0
+4:Encore,30.0%,42.0
+5:Icy Wind,27.1428571429%,38.0
+6:Soak,25.0%,35.0
+7:Disable,24.2857142857%,34.0
+8:Hypnosis,23.5714285714%,33.0
+9:Hydro Pump,22.8571428571%,32.0
+10:Psychic,15.0%,21.0
+11:Worry Seed,14.2857142857%,20.0
+12:Simple Beam,10.7142857143%,15.0
+13:Confuse Ray,5.71428571429%,8.0
+14:Aqua Jet,2.14285714286%,3.0
+15:Focus Blast,2.14285714286%,3.0
+16:Role Play,2.14285714286%,3.0
+17:Psych Up,2.14285714286%,3.0
+18:Signal Beam,1.42857142857%,2.0
+19:Swagger,1.42857142857%,2.0
+20:Clear Smog,0.714285714286%,1.0
+0:Other,2.85714285714%,4.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,60.7142857143%,85.0
+2:Sitrus Berry,30.0%,42.0
+3:Focus Sash,6.42857142857%,9.0
+4:Mystic Water,0.714285714286%,1.0
+5:Bright Powder,0.714285714286%,1.0
+6:Lum Berry,0.714285714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,99.2857142857%,139.0
+2:Damp,0.714285714286%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,39.2857142857%,55.0
+2:Modest,30.0%,42.0
+3:Bold,22.1428571429%,31.0
+4:Sassy,5.71428571429%,8.0
+5:Hasty,2.14285714286%,3.0
+6:Calm,0.714285714286%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Ferrothorn
+4:Dialga
+5:Xerneas
+6:Kyogre
+7:Scizor
+8:Crobat
+9:Salamence
+10:Palkia
+11:Rayquaza
+12:Talonflame
+13:Shedinja
+14:Mewtwo
+15:Yveltal
+16:Cresselia
+17:Mawile
+18:Zapdos
+19:Gengar
+20:Goodra
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,57.5757575758%,80.6060606061
+2:Ice Beam,28.7878787879%,40.303030303
+3:Hydro Pump,10.6060606061%,14.8484848485
+4:Icy Wind,3.0303030303%,4.24242424242
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.5%,17.5
+2:Brave Bird,8.75%,12.25
+3:Moonblast,7.5%,10.5
+4:Eruption,7.5%,10.5
+5:Sucker Punch,6.25%,8.75
+6:Dragon Ascent,5.0%,7.0
+7:Ice Beam,5.0%,7.0
+8:Precipice Blades,3.75%,5.25
+9:Thunder,3.75%,5.25
+10:Thunderbolt,3.75%,5.25
+11:Double-Edge,3.75%,5.25
+12:Foul Play,2.5%,3.5
+13:Power Whip,2.5%,3.5
+14:Earth Power,2.5%,3.5
+15:Gyro Ball,2.5%,3.5
+16:Water Spout,2.5%,3.5
+17:Extreme Speed,2.5%,3.5
+18:Play Rough,1.25%,1.75
+19:Freeze-Dry,1.25%,1.75
+20:Fusion Bolt,1.25%,1.75
+0:Other,12.5%,17.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Rayquaza
+3:Talonflame
+4:Landorus
+5:Xerneas
+6:Kyogre
+7:Kangaskhan
+8:Cresselia
+9:Togekiss
+10:Salamence
+11:Crobat
+12:Terrakion
+13:Liepard
+14:Dialga
+15:Infernape
+16:Rayquaza
+17:Salamence
+18:Walrein
+19:Mawile
+20:Breloom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Talonflame
+6:Ferrothorn
+7:Kangaskhan
+8:Yveltal
+9:Thundurus
+10:Mawile
+11:Liepard
+12:Cresselia
+13:Ho-Oh
+14:Greninja
+15:Kyurem
+16:Kyurem
+17:Landorus
+18:Tornadus
+19:Serperior
+20:Palkia

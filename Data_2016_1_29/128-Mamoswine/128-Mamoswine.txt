@@ -1,0 +1,90 @@
+128:Mamoswine|17
+ ---------- 
+Moves used:
+1:Ice Shard,100.0%,17.0
+2:Earthquake,100.0%,17.0
+3:Icicle Spear,70.5882352941%,12.0
+4:Protect,41.1764705882%,7.0
+5:Icicle Crash,29.4117647059%,5.0
+6:Rock Slide,29.4117647059%,5.0
+7:Freeze-Dry,23.5294117647%,4.0
+8:Fissure,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,29.4117647059%,5.0
+2:Focus Sash,23.5294117647%,4.0
+3:Choice Band,23.5294117647%,4.0
+4:Life Orb,17.6470588235%,3.0
+5:Assault Vest,5.88235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Adamant,41.1764705882%,7.0
+2:Jolly,35.2941176471%,6.0
+3:Naive,23.5294117647%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Rayquaza
+4:Lugia
+5:Ditto
+6:Liepard
+7:Groudon
+8:Thundurus
+9:Ferrothorn
+10:Ho-Oh
+11:Talonflame
+12:Cresselia
+13:Heatran
+14:Togekiss
+15:Metagross
+16:Ludicolo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Shard,44.4444444444%,7.55555555556
+2:Rock Slide,22.2222222222%,3.77777777778
+3:Icicle Crash,11.1111111111%,1.88888888889
+4:Icicle Spear,11.1111111111%,1.88888888889
+5:Earthquake,11.1111111111%,1.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,7.69230769231%,1.30769230769
+2:Dazzling Gleam,7.69230769231%,1.30769230769
+3:Moonblast,7.69230769231%,1.30769230769
+4:Psyshock,7.69230769231%,1.30769230769
+5:Draco Meteor,7.69230769231%,1.30769230769
+6:Drain Punch,7.69230769231%,1.30769230769
+7:Water Spout,7.69230769231%,1.30769230769
+8:Eruption,7.69230769231%,1.30769230769
+9:Fake Out,7.69230769231%,1.30769230769
+10:Icy Wind,7.69230769231%,1.30769230769
+11:Low Kick,7.69230769231%,1.30769230769
+12:Flamethrower,7.69230769231%,1.30769230769
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Rayquaza
+3:Yveltal
+4:Talonflame
+5:Salamence
+6:Sableye
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Cresselia
+5:Rayquaza
+6:Kyogre

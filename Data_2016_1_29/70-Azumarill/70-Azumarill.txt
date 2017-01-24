@@ -1,0 +1,137 @@
+70:Azumarill|84
+ ---------- 
+Moves used:
+1:Aqua Jet,92.8571428571%,78.0
+2:Play Rough,91.6666666667%,77.0
+3:Superpower,65.4761904762%,55.0
+4:Waterfall,44.0476190476%,37.0
+5:Protect,38.0952380952%,32.0
+6:Belly Drum,25.0%,21.0
+7:Knock Off,19.0476190476%,16.0
+8:Perish Song,7.14285714286%,6.0
+9:Dive,5.95238095238%,5.0
+10:Tackle,5.95238095238%,5.0
+11:Ice Punch,2.38095238095%,2.0
+12:Scald,1.19047619048%,1.0
+13:Helping Hand,1.19047619048%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,35.7142857143%,30.0
+2:Sitrus Berry,27.380952381%,23.0
+3:Choice Band,15.4761904762%,13.0
+4:Life Orb,11.9047619048%,10.0
+5:Wacan Berry,7.14285714286%,6.0
+6:Lum Berry,2.38095238095%,2.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,92.8571428571%,78.0
+2:Sap Sipper,7.14285714286%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,88.0952380952%,74.0
+2:Sassy,5.95238095238%,5.0
+3:Brave,4.7619047619%,4.0
+4:Calm,1.19047619048%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Ferrothorn
+6:Infernape
+7:Lopunny
+8:Kangaskhan
+9:Landorus
+10:Weavile
+11:Groudon
+12:Thundurus
+13:Gengar
+14:Liepard
+15:Aegislash
+16:Amoonguss
+17:Giratina
+18:Rotom
+19:Smeargle
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,39.2156862745%,32.9411764706
+2:Play Rough,37.2549019608%,31.2941176471
+3:Superpower,13.7254901961%,11.5294117647
+4:Waterfall,9.80392156863%,8.23529411765
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.4615384615%,11.3076923077
+2:Dragon Ascent,7.69230769231%,6.46153846154
+3:Return,7.69230769231%,6.46153846154
+4:Precipice Blades,5.76923076923%,4.84615384615
+5:Origin Pulse,5.76923076923%,4.84615384615
+6:Double-Edge,5.76923076923%,4.84615384615
+7:Iron Head,3.84615384615%,3.23076923077
+8:Power Whip,3.84615384615%,3.23076923077
+9:Sucker Punch,3.84615384615%,3.23076923077
+10:Water Spout,3.84615384615%,3.23076923077
+11:Hyper Voice,3.84615384615%,3.23076923077
+12:Thunder,3.84615384615%,3.23076923077
+13:Thunderbolt,3.84615384615%,3.23076923077
+14:Fusion Bolt,1.92307692308%,1.61538461538
+15:Psystrike,1.92307692308%,1.61538461538
+16:Flash Cannon,1.92307692308%,1.61538461538
+17:Bullet Punch,1.92307692308%,1.61538461538
+18:Earth Power,1.92307692308%,1.61538461538
+19:Eruption,1.92307692308%,1.61538461538
+20:Knock Off,1.92307692308%,1.61538461538
+0:Other,7.69230769231%,6.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Crobat
+6:Talonflame
+7:Ferrothorn
+8:Salamence
+9:Xerneas
+10:Amoonguss
+11:Liepard
+12:Cresselia
+13:Palkia
+14:Weavile
+15:Smeargle
+16:Thundurus
+17:Giratina
+18:Dialga
+19:Scizor
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Ferrothorn
+7:Dialga
+8:Salamence
+9:Yveltal
+10:Landorus
+11:Zekrom
+12:Thundurus
+13:Cresselia
+14:Palkia
+15:Togekiss
+16:Kyogre
+17:Metagross
+18:Mawile
+19:Scizor
+20:Mewtwo

@@ -1,0 +1,67 @@
+125:Jynx|19
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,19.0
+2:Skill Swap,94.7368421053%,18.0
+3:Lovely Kiss,94.7368421053%,18.0
+4:Icy Wind,73.6842105263%,14.0
+5:Ice Beam,26.3157894737%,5.0
+6:Perish Song,5.26315789474%,1.0
+7:Psychic,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Air Balloon,73.6842105263%,14.0
+2:Focus Sash,26.3157894737%,5.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Timid,94.7368421053%,18.0
+2:Modest,5.26315789474%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gengar
+3:Weavile
+4:Mewtwo
+5:Toxicroak
+6:Meowstic
+7:Metagross
+8:Ho-Oh
+9:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,66.6666666667%,12.6666666667
+2:Icy Wind,33.3333333333%,6.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,3.8
+2:Double-Edge,20.0%,3.8
+3:Dazzling Gleam,10.0%,1.9
+4:Brave Bird,10.0%,1.9
+5:Return,10.0%,1.9
+6:Earthquake,10.0%,1.9
+7:Thunderbolt,10.0%,1.9
+8:Flamethrower,10.0%,1.9
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Palkia
+3:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Thundurus
+6:Ditto

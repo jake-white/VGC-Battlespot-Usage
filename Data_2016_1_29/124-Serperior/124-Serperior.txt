@@ -1,0 +1,102 @@
+124:Serperior|19
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,19.0
+2:Glare,78.9473684211%,15.0
+3:Synthesis,26.3157894737%,5.0
+4:Swagger,26.3157894737%,5.0
+5:Reflect,26.3157894737%,5.0
+6:Light Screen,26.3157894737%,5.0
+7:Dragon Pulse,21.0526315789%,4.0
+8:Giga Drain,21.0526315789%,4.0
+9:Leech Seed,21.0526315789%,4.0
+10:Protect,15.7894736842%,3.0
+11:Knock Off,10.5263157895%,2.0
+12:Hidden Power,10.5263157895%,2.0
+13:Gastro Acid,5.26315789474%,1.0
+14:Taunt,5.26315789474%,1.0
+15:Substitute,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,36.8421052632%,7.0
+2:Rocky Helmet,26.3157894737%,5.0
+3:Choice Specs,21.0526315789%,4.0
+4:Leftovers,5.26315789474%,1.0
+5:Bright Powder,5.26315789474%,1.0
+6:Sitrus Berry,5.26315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Timid,89.4736842105%,17.0
+2:Naive,10.5263157895%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kangaskhan
+3:Greninja
+4:Ditto
+5:Talonflame
+6:Kyogre
+7:Whimsicott
+8:Aerodactyl
+9:Yveltal
+10:Salamence
+11:Lugia
+12:Scizor
+13:Zygarde
+14:Xerneas
+15:Zekrom
+16:Thundurus
+17:Excadrill
+18:Palkia
+19:Dialga
+20:Rotom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,77.7777777778%,14.7777777778
+2:Knock Off,11.1111111111%,2.11111111111
+3:Hidden Power,11.1111111111%,2.11111111111
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,2.71428571429
+2:Gyro Ball,14.2857142857%,2.71428571429
+3:Double-Edge,14.2857142857%,2.71428571429
+4:Dragon Ascent,7.14285714286%,1.35714285714
+5:Moonblast,7.14285714286%,1.35714285714
+6:Play Rough,7.14285714286%,1.35714285714
+7:Spacial Rend,7.14285714286%,1.35714285714
+8:Brave Bird,7.14285714286%,1.35714285714
+9:Eruption,7.14285714286%,1.35714285714
+10:Fake Out,7.14285714286%,1.35714285714
+11:Sludge Bomb,7.14285714286%,1.35714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Ferrothorn
+4:Rayquaza
+5:Mawile
+6:Crobat
+7:Golduck
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Ferrothorn
+3:Kangaskhan
+4:Talonflame
+5:Palkia
+6:Rayquaza
+7:Groudon
+8:Salamence
+9:Mawile
+10:Gengar

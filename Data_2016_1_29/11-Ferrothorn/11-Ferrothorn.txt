@@ -1,0 +1,166 @@
+11:Ferrothorn|4676
+ ---------- 
+Moves used:
+1:Gyro Ball,98.7810094098%,4619.0
+2:Protect,94.0975192472%,4400.0
+3:Power Whip,92.6432848589%,4332.0
+4:Leech Seed,74.9786142002%,3506.0
+5:Knock Off,14.7775876818%,691.0
+6:Seed Bomb,7.22840034217%,338.0
+7:Explosion,3.07955517536%,144.0
+8:Substitute,2.52352437981%,118.0
+9:Thunder Wave,2.37382378101%,111.0
+10:Iron Head,1.625320787%,76.0
+11:Worry Seed,1.49700598802%,70.0
+12:Bullet Seed,1.34730538922%,63.0
+13:Curse,0.962360992301%,45.0
+14:Bulldoze,0.641573994867%,30.0
+15:Swords Dance,0.641573994867%,30.0
+16:Sleep Talk,0.59880239521%,28.0
+17:Payback,0.577416595381%,27.0
+18:Gravity,0.470487596236%,22.0
+19:Endeavor,0.299401197605%,14.0
+20:Hone Claws,0.149700598802%,7.0
+0:Other,0.705731394354%,33.0
+
+ ---------- 
+Items used:
+1:Leftovers,52.1385799829%,2438.0
+2:Rocky Helmet,17.2155688623%,805.0
+3:Lum Berry,11.2275449102%,525.0
+4:Sitrus Berry,6.84345594525%,320.0
+5:Life Orb,3.18648417451%,149.0
+6:Assault Vest,2.56629597947%,120.0
+7:Expert Belt,2.35243798118%,110.0
+8:Choice Band,1.28314798973%,60.0
+9:Wide Lens,0.769888793841%,36.0
+10:Chesto Berry,0.662959794696%,31.0
+11:Occa Berry,0.577416595381%,27.0
+12:Chople Berry,0.342172797263%,16.0
+13:Zoom Lens,0.171086398631%,8.0
+14:Custap Berry,0.149700598802%,7.0
+15:Eject Button,0.106928999145%,5.0
+16:Miracle Seed,0.0855431993157%,4.0
+17:Maranga Berry,0.0641573994867%,3.0
+18:Power Band,0.0427715996578%,2.0
+19:Iron Ball,0.0213857998289%,1.0
+20:Focus Sash,0.0213857998289%,1.0
+0:Other,0.0427715996578%,2.0
+
+ ---------- 
+Abilities used:
+1:Iron Barbs,99.9358426005%,4673.0
+2:Anticipation,0.0641573994867%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,70.2309666382%,3284.0
+2:Sassy,16.1462788708%,755.0
+3:Relaxed,9.36698032506%,438.0
+4:Adamant,2.28828058169%,107.0
+5:Careful,1.00513259196%,47.0
+6:Impish,0.962360992301%,45.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Rayquaza
+5:Xerneas
+6:Cresselia
+7:Salamence
+8:Crobat
+9:Talonflame
+10:Gengar
+11:Liepard
+12:Landorus
+13:Smeargle
+14:Ho-Oh
+15:Togekiss
+16:Palkia
+17:Weavile
+18:Yveltal
+19:Thundurus
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gyro Ball,69.0734557596%,3229.87479132
+2:Power Whip,26.7111853088%,1249.01502504
+3:Seed Bomb,1.75292153589%,81.9666110184
+4:Knock Off,1.6694490818%,78.0634390651
+5:Iron Head,0.333889816361%,15.612687813
+6:Bullet Seed,0.333889816361%,15.612687813
+7:Explosion,0.0834724540902%,3.90317195326
+8:Struggle,0.0417362270451%,1.95158597663
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,11.7743927542%,550.570605187
+2:Flamethrower,7.98682585426%,373.463976945
+3:Overheat,7.73981062166%,361.913544669
+4:Low Kick,6.75174969123%,315.711815562
+5:Dragon Ascent,6.05187319885%,282.985590778
+6:Water Spout,5.35199670646%,250.259365994
+7:Flare Blitz,4.89913544669%,229.083573487
+8:Origin Pulse,4.36393577604%,204.057636888
+9:Ice Beam,4.15808974887%,194.432276657
+10:Fire Punch,4.15808974887%,194.432276657
+11:Precipice Blades,3.9522437217%,184.806916427
+12:Dazzling Gleam,2.71716755867%,127.054755043
+13:Hyper Voice,2.51132153149%,117.429394813
+14:Moonblast,2.42898312063%,113.57925072
+15:Earth Power,1.89378344998%,88.553314121
+16:Brave Bird,1.4409221902%,67.3775216138
+17:Fire Blast,1.4409221902%,67.3775216138
+18:Double-Edge,1.39975298477%,65.4524495677
+19:Superpower,1.27624536846%,59.6772334294
+20:Shadow Ball,1.23507616303%,57.7521613833
+0:Other,14.6150679292%,683.400576369
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Smeargle
+6:Crobat
+7:Liepard
+8:Salamence
+9:Togekiss
+10:Cresselia
+11:Whimsicott
+12:Weavile
+13:Gengar
+14:Groudon
+15:Yveltal
+16:Talonflame
+17:Gengar
+18:Landorus
+19:Rayquaza
+20:Thundurus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Xerneas
+8:Rayquaza
+9:Yveltal
+10:Landorus
+11:Dialga
+12:Kangaskhan
+13:Ho-Oh
+14:Mawile
+15:Aegislash
+16:Ferrothorn
+17:Terrakion
+18:Mienshao
+19:Palkia
+20:Mewtwo

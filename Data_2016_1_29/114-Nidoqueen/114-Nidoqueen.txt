@@ -1,0 +1,93 @@
+114:Nidoqueen|24
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,24.0
+2:Sludge Bomb,100.0%,24.0
+3:Ice Beam,100.0%,24.0
+4:Fire Blast,87.5%,21.0
+5:Protect,12.5%,3.0
+
+ ---------- 
+Items used:
+1:Life Orb,95.8333333333%,23.0
+2:Assault Vest,4.16666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,24.0
+
+ ---------- 
+Natures used:
+1:Modest,91.6666666667%,22.0
+2:Quiet,8.33333333333%,2.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Ferrothorn
+3:Xerneas
+4:Rayquaza
+5:Dialga
+6:Togekiss
+7:Groudon
+8:Kyogre
+9:Kangaskhan
+10:Yveltal
+11:Volcarona
+12:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,38.8888888889%,9.33333333333
+2:Earth Power,27.7777777778%,6.66666666667
+3:Ice Beam,22.2222222222%,5.33333333333
+4:Fire Blast,11.1111111111%,2.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,15.7894736842%,3.78947368421
+2:Moonblast,10.5263157895%,2.52631578947
+3:Ice Beam,10.5263157895%,2.52631578947
+4:Precipice Blades,5.26315789474%,1.26315789474
+5:Oblivion Wing,5.26315789474%,1.26315789474
+6:Dazzling Gleam,5.26315789474%,1.26315789474
+7:Earth Power,5.26315789474%,1.26315789474
+8:Brave Bird,5.26315789474%,1.26315789474
+9:Flare Blitz,5.26315789474%,1.26315789474
+10:Eruption,5.26315789474%,1.26315789474
+11:Fake Out,5.26315789474%,1.26315789474
+12:Hidden Power,5.26315789474%,1.26315789474
+13:Sacred Fire,5.26315789474%,1.26315789474
+14:Psychic,5.26315789474%,1.26315789474
+15:Double-Edge,5.26315789474%,1.26315789474
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Crobat
+4:Xerneas
+5:Aromatisse
+6:Landorus
+7:Ferrothorn
+8:Whimsicott
+9:Liepard
+10:Dialga
+11:Kyogre
+12:Mawile
+13:Smeargle
+14:Xatu
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Cresselia
+5:Yveltal
+6:Talonflame
+7:Blaziken
+8:Ho-Oh
+9:Ditto
+10:Kangaskhan

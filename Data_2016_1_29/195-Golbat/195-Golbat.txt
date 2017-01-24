@@ -1,0 +1,46 @@
+195:Golbat|3
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,3.0
+2:Super Fang,100.0%,3.0
+3:Roost,66.6666666667%,2.0
+4:Snatch,66.6666666667%,2.0
+5:Quick Guard,33.3333333333%,1.0
+6:Confuse Ray,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Impish,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Ferrothorn
+5:Lopunny
+6:Groudon
+7:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

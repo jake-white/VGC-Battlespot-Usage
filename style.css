@@ -1,0 +1,72 @@
+#header{
+    background-color: #3e8897;
+    padding: 1em;
+}
+
+.header{
+    margin:0 0 20px 0;
+    color: #ffffff;
+    background:#000000;
+    border-bottom:1px solid #333333;
+    box-shadow:inset 1px 1px 0 rgba(255,255,255,.6),0px 2px 2px rgba(0,0,0,.15);
+    min-height:50px;
+}
+
+.header a {
+    color: #D8A10A;
+    text-decoration: none;
+}
+
+.nav{
+    display:block;
+    list-style:none;
+    margin:0;
+    padding:0;
+    float:left;
+    padding:15px 6px 15px 6px;
+}
+#columns{
+    height: 100%;
+    display: flex;
+}
+#left-column {
+    width: 16%;
+    background: #59c3d8;
+    line-height: 200%;
+}
+#right-column {
+    word-wrap: break-word;
+    width: 84%;
+    background: #3e8897;
+}
+#statshere {
+    white-space: pre-line
+}
+
+.listing{
+    margin: 1%;
+}
+.listing:hover{
+    background: #3e8897;
+}
+
+table.selectionPane{
+    border: 1px solid #000;
+    background: #59c3d8;
+}
+table.selectionPane td{
+    border: 1px solid #000;
+    line-height: 200%;
+}
+table.selectionPane td:hover{
+    background: #3e8897;
+}
+
+.statsTable td{
+    border: 1px solid #000;
+    border-spacing: 10%;
+}
+body, html {
+    margin:0;
+    padding:0;
+}

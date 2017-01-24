@@ -1,0 +1,43 @@
+198:Rotom-M|1
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,1.0
+2:Leaf Storm,100.0%,1.0
+3:Dark Pulse,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Liepard
+4:Cresselia
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

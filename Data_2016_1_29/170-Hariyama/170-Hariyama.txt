@@ -1,0 +1,58 @@
+170:Hariyama|5
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,5.0
+2:Low Kick,80.0%,4.0
+3:Feint,60.0%,3.0
+4:Wide Guard,40.0%,2.0
+5:Knock Off,40.0%,2.0
+6:Protect,40.0%,2.0
+7:Close Combat,20.0%,1.0
+8:Detect,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,80.0%,4.0
+2:Focus Sash,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Kyogre
+3:Mawile
+4:Xerneas
+5:Talonflame
+6:Salamence
+7:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,50.0%,2.5
+2:Fake Out,50.0%,2.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,25.0%,1.25
+2:Water Spout,25.0%,1.25
+3:Explosion,25.0%,1.25
+4:Double-Edge,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Bronzong
+3:Kyogre
+4:Kangaskhan

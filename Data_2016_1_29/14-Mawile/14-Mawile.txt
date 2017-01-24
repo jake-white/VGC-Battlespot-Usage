@@ -1,0 +1,139 @@
+14:Mawile|3101
+ ---------- 
+Moves used:
+1:Sucker Punch,98.8713318284%,3066.0
+2:Iron Head,95.7433086101%,2969.0
+3:Protect,92.1638181232%,2858.0
+4:Play Rough,91.3898742341%,2834.0
+5:Knock Off,6.86875201548%,213.0
+6:Fire Fang,6.61077071912%,205.0
+7:Foul Play,2.54756530152%,79.0
+8:Rock Slide,2.22508868107%,69.0
+9:Swords Dance,2.09609803289%,65.0
+10:Substitute,1.03192518542%,32.0
+11:Power-Up Punch,0.35472428249%,11.0
+12:Stone Edge,0.0322476620445%,1.0
+13:Fake Tears,0.0322476620445%,1.0
+14:Thunder Punch,0.0322476620445%,1.0
+
+ ---------- 
+Items used:
+1:Mawilite,99.967752338%,3100.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,98.7423411803%,3062.0
+2:Hyper Cutter,1.25765881974%,39.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.1077071912%,2050.0
+2:Brave,31.3447275073%,972.0
+3:Careful,1.96710738471%,61.0
+4:Jolly,0.322476620445%,10.0
+5:Sassy,0.257981296356%,8.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Cresselia
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Liepard
+8:Rayquaza
+9:Palkia
+10:Crobat
+11:Thundurus
+12:Smeargle
+13:Dialga
+14:Landorus
+15:Amoonguss
+16:Weavile
+17:Gothitelle
+18:Ferrothorn
+19:Togekiss
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,44.068627451%,1366.56813725
+2:Play Rough,28.5294117647%,884.697058824
+3:Sucker Punch,23.3823529412%,725.086764706
+4:Knock Off,1.37254901961%,42.562745098
+5:Fire Fang,0.93137254902%,28.8818627451
+6:Rock Slide,0.93137254902%,28.8818627451
+7:Foul Play,0.686274509804%,21.281372549
+8:Power-Up Punch,0.0490196078431%,1.52009803922
+9:Stone Edge,0.0490196078431%,1.52009803922
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.9553072626%,370.734078212
+2:Origin Pulse,11.1731843575%,346.480446927
+3:Earth Power,10.0%,310.1
+4:Eruption,9.05027932961%,280.649162011
+5:Water Spout,6.48044692737%,200.958659218
+6:Dazzling Gleam,5.41899441341%,168.04301676
+7:Flamethrower,4.24581005587%,131.662569832
+8:Overheat,4.18994413408%,129.930167598
+9:Moonblast,3.57541899441%,110.873743017
+10:Fire Punch,3.01675977654%,93.5497206704
+11:Earthquake,2.62569832402%,81.4229050279
+12:Flare Blitz,2.12290502793%,65.8312849162
+13:Iron Head,1.89944134078%,58.9016759777
+14:Sucker Punch,1.34078212291%,41.5776536313
+15:Scald,1.22905027933%,38.112849162
+16:Shadow Ball,1.17318435754%,36.3804469274
+17:Extreme Speed,1.11731843575%,34.6480446927
+18:Thunderbolt,1.06145251397%,32.9156424581
+19:Gyro Ball,1.00558659218%,31.1832402235
+20:Hyper Voice,1.00558659218%,31.1832402235
+0:Other,13.5754189944%,420.973743017
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Rayquaza
+5:Groudon
+6:Smeargle
+7:Salamence
+8:Crobat
+9:Talonflame
+10:Togekiss
+11:Yveltal
+12:Liepard
+13:Cresselia
+14:Thundurus
+15:Weavile
+16:Palkia
+17:Whimsicott
+18:Ferrothorn
+19:Amoonguss
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Salamence
+9:Palkia
+10:Mawile
+11:Ferrothorn
+12:Dialga
+13:Thundurus
+14:Rayquaza
+15:Ho-Oh
+16:Smeargle
+17:Gengar
+18:Yveltal
+19:Aegislash
+20:Cresselia

@@ -1,0 +1,39 @@
+225:Ampharos|1
+ ---------- 
+Moves used:
+1:Dragon Pulse,100.0%,1.0
+2:Hidden Power,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Thunder,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Ampharosite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Static,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Bronzong
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ditto

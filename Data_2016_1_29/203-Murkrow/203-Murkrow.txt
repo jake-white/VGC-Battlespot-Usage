@@ -1,0 +1,38 @@
+203:Murkrow|1
+ ---------- 
+Moves used:
+1:Snarl,100.0%,1.0
+2:Quash,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Taunt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Kyogre
+3:Salamence
+4:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

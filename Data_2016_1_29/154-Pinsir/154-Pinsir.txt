@@ -1,0 +1,61 @@
+154:Pinsir|5
+ ---------- 
+Moves used:
+1:Feint,100.0%,5.0
+2:Protect,100.0%,5.0
+3:Focus Punch,80.0%,4.0
+4:Thief,60.0%,3.0
+5:Smack Down,20.0%,1.0
+6:Me First,20.0%,1.0
+7:Knock Off,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Persim Berry,60.0%,3.0
+2:Pinsirite,40.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Adamant,80.0%,4.0
+2:Jolly,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Kangaskhan
+4:Krookodile
+5:Crobat
+6:Ditto
+7:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,33.3333333333%,1.66666666667
+2:Focus Punch,33.3333333333%,1.66666666667
+3:Thief,33.3333333333%,1.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,20.0%,1.0
+2:Eruption,20.0%,1.0
+3:Facade,20.0%,1.0
+4:Blizzard,20.0%,1.0
+5:Flamethrower,20.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Cresselia
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Kyurem
+4:Salamence

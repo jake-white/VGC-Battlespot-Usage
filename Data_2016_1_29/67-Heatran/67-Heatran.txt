@@ -1,0 +1,120 @@
+67:Heatran|86
+ ---------- 
+Moves used:
+1:Earth Power,90.6976744186%,78.0
+2:Protect,88.3720930233%,76.0
+3:Flash Cannon,80.2325581395%,69.0
+4:Heat Wave,76.7441860465%,66.0
+5:Substitute,16.2790697674%,14.0
+6:Hidden Power,15.1162790698%,13.0
+7:Overheat,10.4651162791%,9.0
+8:Flamethrower,10.4651162791%,9.0
+9:Dragon Pulse,9.3023255814%,8.0
+10:Iron Head,2.32558139535%,2.0
+
+ ---------- 
+Items used:
+1:Chople Berry,29.0697674419%,25.0
+2:Air Balloon,24.4186046512%,21.0
+3:Red Card,13.9534883721%,12.0
+4:Choice Scarf,10.4651162791%,9.0
+5:Lum Berry,10.4651162791%,9.0
+6:Leftovers,5.81395348837%,5.0
+7:Shuca Berry,5.81395348837%,5.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,86.0
+
+ ---------- 
+Natures used:
+1:Modest,80.2325581395%,69.0
+2:Timid,8.13953488372%,7.0
+3:Quiet,6.97674418605%,6.0
+4:Calm,4.6511627907%,4.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Dialga
+3:Talonflame
+4:Groudon
+5:Kyogre
+6:Salamence
+7:Xerneas
+8:Liepard
+9:Crobat
+10:Weavile
+11:Yveltal
+12:Landorus
+13:Cresselia
+14:Togekiss
+15:Kangaskhan
+16:Thundurus
+17:Smeargle
+18:Meowstic
+19:Terrakion
+20:Gothitelle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,47.5%,40.85
+2:Flash Cannon,30.0%,25.8
+3:Earth Power,12.5%,10.75
+4:Flamethrower,7.5%,6.45
+5:Overheat,2.5%,2.15
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,35.2941176471%,30.3529411765
+2:Precipice Blades,11.7647058824%,10.1176470588
+3:Water Spout,11.7647058824%,10.1176470588
+4:Origin Pulse,9.80392156863%,8.43137254902
+5:Low Kick,7.8431372549%,6.74509803922
+6:Dazzling Gleam,3.92156862745%,3.37254901961
+7:Shadow Ball,3.92156862745%,3.37254901961
+8:Power-Up Punch,1.96078431373%,1.6862745098
+9:Scald,1.96078431373%,1.6862745098
+10:Sucker Punch,1.96078431373%,1.6862745098
+11:Eruption,1.96078431373%,1.6862745098
+12:Hidden Power,1.96078431373%,1.6862745098
+13:High Jump Kick,1.96078431373%,1.6862745098
+14:Waterfall,1.96078431373%,1.6862745098
+15:Earthquake,1.96078431373%,1.6862745098
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Ferrothorn
+3:Whimsicott
+4:Cresselia
+5:Groudon
+6:Talonflame
+7:Salamence
+8:Mawile
+9:Smeargle
+10:Kangaskhan
+11:Landorus
+12:Thundurus
+13:Liepard
+14:Ho-Oh
+15:Porygon2
+16:Crobat
+17:Gengar
+18:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Mienshao
+7:Dialga
+8:Weavile
+9:Rayquaza
+10:Mawile
+11:Suicune
+12:Gengar
+13:Gengar

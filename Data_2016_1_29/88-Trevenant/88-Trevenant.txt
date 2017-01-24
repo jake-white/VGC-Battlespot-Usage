@@ -1,0 +1,92 @@
+88:Trevenant|39
+ ---------- 
+Moves used:
+1:Trick Room,97.4358974359%,38.0
+2:Forest's Curse,76.9230769231%,30.0
+3:Phantom Force,69.2307692308%,27.0
+4:Curse,69.2307692308%,27.0
+5:Horn Leech,23.0769230769%,9.0
+6:Will-O-Wisp,23.0769230769%,9.0
+7:Skill Swap,20.5128205128%,8.0
+8:Protect,10.2564102564%,4.0
+9:Foul Play,7.69230769231%,3.0
+10:Leech Seed,2.5641025641%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,92.3076923077%,36.0
+2:Focus Sash,7.69230769231%,3.0
+
+ ---------- 
+Abilities used:
+1:Harvest,92.3076923077%,36.0
+2:Frisk,7.69230769231%,3.0
+
+ ---------- 
+Natures used:
+1:Careful,69.2307692308%,27.0
+2:Sassy,28.2051282051%,11.0
+3:Impish,2.5641025641%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Sylveon
+4:Yveltal
+5:Landorus
+6:Crobat
+7:Xerneas
+8:Talonflame
+9:Mawile
+10:Smeargle
+11:Kyurem
+12:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,100.0%,39.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,13.7931034483%,5.37931034483
+2:Moonblast,10.3448275862%,4.03448275862
+3:Brave Bird,10.3448275862%,4.03448275862
+4:Dazzling Gleam,6.89655172414%,2.68965517241
+5:Overheat,6.89655172414%,2.68965517241
+6:Knock Off,6.89655172414%,2.68965517241
+7:Ice Beam,6.89655172414%,2.68965517241
+8:Fire Punch,6.89655172414%,2.68965517241
+9:Dragon Ascent,3.44827586207%,1.34482758621
+10:Phantom Force,3.44827586207%,1.34482758621
+11:Shadow Force,3.44827586207%,1.34482758621
+12:Iron Head,3.44827586207%,1.34482758621
+13:Power Whip,3.44827586207%,1.34482758621
+14:Sucker Punch,3.44827586207%,1.34482758621
+15:Gyro Ball,3.44827586207%,1.34482758621
+16:Hyper Voice,3.44827586207%,1.34482758621
+17:Shadow Ball,3.44827586207%,1.34482758621
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Ferrothorn
+5:Giratina
+6:Rayquaza
+7:Kyogre
+8:Yveltal
+9:Whimsicott
+10:Weavile
+11:Salamence
+12:Mawile
+13:Ho-Oh
+14:Ditto
+15:Kangaskhan

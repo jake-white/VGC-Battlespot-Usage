@@ -1,0 +1,57 @@
+167:Articuno|6
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,6.0
+2:Hurricane,100.0%,6.0
+3:Tailwind,83.3333333333%,5.0
+4:Roost,50.0%,3.0
+5:Water Pulse,33.3333333333%,2.0
+6:Sheer Cold,16.6666666667%,1.0
+7:Protect,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,83.3333333333%,5.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Calm,83.3333333333%,5.0
+2:Modest,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Togekiss
+4:Altaria
+5:Aegislash
+6:Talonflame
+7:Gothitelle
+8:Kangaskhan
+9:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,25.0%,1.5
+2:Shadow Ball,25.0%,1.5
+3:Extreme Speed,25.0%,1.5
+4:Rock Slide,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Gengar

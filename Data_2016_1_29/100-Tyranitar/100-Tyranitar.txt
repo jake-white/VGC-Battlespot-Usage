@@ -1,0 +1,109 @@
+100:Tyranitar|31
+ ---------- 
+Moves used:
+1:Crunch,100.0%,31.0
+2:Rock Slide,100.0%,31.0
+3:Protect,70.9677419355%,22.0
+4:Dragon Dance,67.7419354839%,21.0
+5:Earthquake,22.5806451613%,7.0
+6:Thunder Wave,16.1290322581%,5.0
+7:Snarl,6.45161290323%,2.0
+8:Superpower,6.45161290323%,2.0
+9:Ice Punch,6.45161290323%,2.0
+10:Iron Head,3.22580645161%,1.0
+
+ ---------- 
+Items used:
+1:Tyranitarite,70.9677419355%,22.0
+2:Choice Scarf,22.5806451613%,7.0
+3:Assault Vest,6.45161290323%,2.0
+
+ ---------- 
+Abilities used:
+1:Sand Stream,100.0%,31.0
+
+ ---------- 
+Natures used:
+1:Adamant,51.6129032258%,16.0
+2:Jolly,48.3870967742%,15.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Liepard
+4:Xerneas
+5:Salamence
+6:Ferrothorn
+7:Lugia
+8:Amoonguss
+9:Whimsicott
+10:Mawile
+11:Meowstic
+12:Kyurem
+13:Rayquaza
+14:Blaziken
+15:Smeargle
+16:Gengar
+17:Sylveon
+18:Aegislash
+19:Talonflame
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,85.0%,26.35
+2:Crunch,15.0%,4.65
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,18.1818181818%,5.63636363636
+2:Origin Pulse,13.6363636364%,4.22727272727
+3:Dazzling Gleam,9.09090909091%,2.81818181818
+4:Water Spout,9.09090909091%,2.81818181818
+5:Earthquake,9.09090909091%,2.81818181818
+6:Ice Beam,9.09090909091%,2.81818181818
+7:Precipice Blades,4.54545454545%,1.40909090909
+8:Iron Head,4.54545454545%,1.40909090909
+9:Draco Meteor,4.54545454545%,1.40909090909
+10:Drain Punch,4.54545454545%,1.40909090909
+11:Close Combat,4.54545454545%,1.40909090909
+12:Eruption,4.54545454545%,1.40909090909
+13:Focus Punch,4.54545454545%,1.40909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Salamence
+3:Xerneas
+4:Florges
+5:Thundurus
+6:Bisharp
+7:Cresselia
+8:Palkia
+9:Rayquaza
+10:Kyogre
+11:Ho-Oh
+12:Smeargle
+13:Crobat
+14:Gyarados
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Gyarados
+4:Kangaskhan
+5:Xerneas
+6:Greninja
+7:Mienshao
+8:Cresselia
+9:Togekiss
+10:Weavile
+11:Infernape
+12:Kyogre
+13:Salamence
+14:Mawile
+15:Mewtwo
+16:Mewtwo

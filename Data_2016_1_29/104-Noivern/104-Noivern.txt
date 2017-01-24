@@ -1,0 +1,96 @@
+104:Noivern|27
+ ---------- 
+Moves used:
+1:Tailwind,96.2962962963%,26.0
+2:Draco Meteor,88.8888888889%,24.0
+3:Super Fang,81.4814814815%,22.0
+4:Flamethrower,44.4444444444%,12.0
+5:Protect,37.037037037%,10.0
+6:Taunt,33.3333333333%,9.0
+7:Boomburst,11.1111111111%,3.0
+8:Hurricane,3.7037037037%,1.0
+9:Air Slash,3.7037037037%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,96.2962962963%,26.0
+2:Expert Belt,3.7037037037%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,74.0740740741%,20.0
+2:Infiltrator,14.8148148148%,4.0
+3:Telepathy,11.1111111111%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,27.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Mawile
+5:Ho-Oh
+6:Amoonguss
+7:Dialga
+8:Rayquaza
+9:Scizor
+10:Gengar
+11:Dragalge
+12:Ferrothorn
+13:Cresselia
+14:Bronzong
+15:Lopunny
+16:Latias
+17:Xerneas
+18:Aegislash
+19:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,70.5882352941%,19.0588235294
+2:Flamethrower,23.5294117647%,6.35294117647
+3:Boomburst,5.88235294118%,1.58823529412
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.7777777778%,7.5
+2:Ice Beam,16.6666666667%,4.5
+3:Origin Pulse,5.55555555556%,1.5
+4:Spacial Rend,5.55555555556%,1.5
+5:Eruption,5.55555555556%,1.5
+6:Shadow Ball,5.55555555556%,1.5
+7:Extreme Speed,5.55555555556%,1.5
+8:Return,5.55555555556%,1.5
+9:Rock Slide,5.55555555556%,1.5
+10:Low Kick,5.55555555556%,1.5
+11:Double-Edge,5.55555555556%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Salamence
+3:Rayquaza
+4:Yveltal
+5:Talonflame
+6:Ferrothorn
+7:Cresselia
+8:Palkia
+9:Metagross
+10:Dusclops
+11:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Aegislash
+5:Greninja
+6:Cresselia
+7:Palkia
+8:Rayquaza
+9:Groudon
+10:Tauros

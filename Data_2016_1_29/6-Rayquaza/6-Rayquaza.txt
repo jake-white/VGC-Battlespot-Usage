@@ -1,0 +1,186 @@
+6:Rayquaza|7215
+ ---------- 
+Moves used:
+1:Dragon Ascent,98.9882189882%,7142.0
+2:Extreme Speed,85.9875259875%,6204.0
+3:Protect,76.5765765766%,5525.0
+4:Waterfall,32.8482328482%,2370.0
+5:Draco Meteor,27.6923076923%,1998.0
+6:Overheat,21.7186417186%,1567.0
+7:Dragon Claw,10.8801108801%,785.0
+8:Earth Power,9.70200970201%,700.0
+9:Earthquake,9.61884961885%,694.0
+10:Swords Dance,7.23492723493%,522.0
+11:Flamethrower,5.68260568261%,410.0
+12:Dragon Dance,3.78378378378%,273.0
+13:Surf,1.82952182952%,132.0
+14:Water Pulse,1.58004158004%,114.0
+15:Dragon Pulse,1.386001386%,100.0
+16:Outrage,0.887040887041%,64.0
+17:Sleep Talk,0.623700623701%,45.0
+18:Rock Slide,0.49896049896%,36.0
+19:Aqua Tail,0.45738045738%,33.0
+20:Ice Beam,0.40194040194%,29.0
+0:Other,1.56618156618%,113.0
+
+ ---------- 
+Items used:
+1:Life Orb,57.4774774775%,4147.0
+2:Choice Band,16.8399168399%,1215.0
+3:Focus Sash,16.8260568261%,1214.0
+4:Lum Berry,4.65696465696%,336.0
+5:Assault Vest,1.3167013167%,95.0
+6:Leftovers,0.623700623701%,45.0
+7:White Herb,0.609840609841%,44.0
+8:Weakness Policy,0.31878031878%,23.0
+9:Expert Belt,0.24948024948%,18.0
+10:Haban Berry,0.19404019404%,14.0
+11:Choice Specs,0.16632016632%,12.0
+12:Power Bracer,0.1386001386%,10.0
+13:Choice Scarf,0.1386001386%,10.0
+14:Silk Scarf,0.0970200970201%,7.0
+15:Focus Band,0.0970200970201%,7.0
+16:Muscle Band,0.0554400554401%,4.0
+17:Yache Berry,0.0554400554401%,4.0
+18:Eject Button,0.02772002772%,2.0
+19:Sitrus Berry,0.02772002772%,2.0
+20:Cheri Berry,0.02772002772%,2.0
+0:Other,0.01386001386%,0.999999999999
+
+ ---------- 
+Abilities used:
+1:Air Lock,100.0%,7215.0
+
+ ---------- 
+Natures used:
+1:Jolly,52.0997920998%,3759.0
+2:Naive,17.2834372834%,1247.0
+3:Hasty,13.2224532225%,954.0
+4:Adamant,11.1988911989%,808.0
+5:Timid,2.86902286902%,207.0
+6:Naughty,1.53846153846%,111.0
+7:Lonely,0.623700623701%,45.0
+8:Quirky,0.568260568261%,41.0
+9:Brave,0.19404019404%,14.0
+10:Modest,0.16632016632%,12.0
+11:Sassy,0.04158004158%,3.0
+12:Calm,0.04158004158%,3.0
+13:Rash,0.04158004158%,3.0
+14:Quiet,0.04158004158%,3.0
+15:Lax,0.04158004158%,3.0
+16:Careful,0.02772002772%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Crobat
+3:Xerneas
+4:Talonflame
+5:Ferrothorn
+6:Weavile
+7:Landorus
+8:Smeargle
+9:Togekiss
+10:Groudon
+11:Liepard
+12:Thundurus
+13:Cresselia
+14:Gengar
+15:Kangaskhan
+16:Aegislash
+17:Mienshao
+18:Whimsicott
+19:Mawile
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Ascent,49.9172337686%,3601.52841641
+2:Extreme Speed,28.2876586353%,2040.95457054
+3:Draco Meteor,6.95236343572%,501.613021887
+4:Waterfall,4.81883391576%,347.678867022
+5:Overheat,2.77726687511%,200.37980504
+6:Earth Power,2.40941695788%,173.839433511
+7:Dragon Claw,1.15872723929%,83.6021703145
+8:Flamethrower,0.901232297223%,65.0239102446
+9:Earthquake,0.827662313776%,59.7158359389
+10:Surf,0.625344859297%,45.1186315983
+11:Dragon Pulse,0.496597388266%,35.8295015634
+12:Water Pulse,0.441419900681%,31.8484458341
+13:Aqua Tail,0.0919624793084%,6.6350928821
+14:Fire Blast,0.0919624793084%,6.6350928821
+15:Thunder,0.0735699834468%,5.30807430568
+16:Ice Beam,0.0551774875851%,3.98105572926
+17:Struggle,0.0367849917234%,2.65403715284
+18:Outrage,0.0183924958617%,1.32701857642
+19:Rock Slide,0.0183924958617%,1.32701857642
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.1428571429%,1236.85714286
+2:Ice Beam,11.5938606848%,836.497048406
+3:Moonblast,5.50177095632%,396.952774498
+4:Draco Meteor,5.360094451%,386.73081464
+5:Double-Edge,4.27390791027%,308.362455726
+6:Rock Slide,3.23494687131%,233.401416765
+7:Gyro Ball,3.11688311688%,224.883116883
+8:Dragon Ascent,2.9279811098%,211.253837072
+9:Eruption,2.80991735537%,202.73553719
+10:Hyper Voice,2.45572609209%,177.180637544
+11:Extreme Speed,2.40850059032%,173.773317591
+12:Brave Bird,2.29043683589%,165.25501771
+13:Foul Play,2.26682408501%,163.551357733
+14:Play Rough,1.91263282172%,137.996458087
+15:Origin Pulse,1.72373081464%,124.367178276
+16:Return,1.70011806375%,122.6635183
+17:Sucker Punch,1.53482880756%,110.737898465
+18:Dragon Pulse,1.48760330579%,107.330578512
+19:Water Spout,1.48760330579%,107.330578512
+20:Spacial Rend,1.34592680047%,97.1086186541
+0:Other,15.9149940968%,1148.26682409
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Talonflame
+6:Ferrothorn
+7:Rayquaza
+8:Crobat
+9:Smeargle
+10:Salamence
+11:Cresselia
+12:Mawile
+13:Amoonguss
+14:Thundurus
+15:Liepard
+16:Yveltal
+17:Landorus
+18:Togekiss
+19:Whimsicott
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Mawile
+8:Ferrothorn
+9:Cresselia
+10:Yveltal
+11:Dialga
+12:Talonflame
+13:Palkia
+14:Gengar
+15:Landorus
+16:Aegislash
+17:Liepard
+18:Rayquaza
+19:Ho-Oh
+20:Thundurus

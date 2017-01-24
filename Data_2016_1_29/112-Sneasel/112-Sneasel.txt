@@ -1,0 +1,68 @@
+112:Sneasel|1
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Screech,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Yveltal
+4:Ferrothorn
+5:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,0.2
+2:Extreme Speed,20.0%,0.2
+3:Dazzling Gleam,13.3333333333%,0.133333333333
+4:Moonblast,6.66666666667%,0.0666666666667
+5:Foul Play,6.66666666667%,0.0666666666667
+6:Earth Power,6.66666666667%,0.0666666666667
+7:Brave Bird,6.66666666667%,0.0666666666667
+8:Water Spout,6.66666666667%,0.0666666666667
+9:Earthquake,6.66666666667%,0.0666666666667
+10:Thunderbolt,6.66666666667%,0.0666666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Purugly
+3:Rayquaza
+4:Groudon
+5:Mawile
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Talonflame
+5:Landorus
+6:Thundurus
+7:Whimsicott
+8:Liepard
+9:Dialga
+10:Rayquaza
+11:Kyogre
+12:Ditto

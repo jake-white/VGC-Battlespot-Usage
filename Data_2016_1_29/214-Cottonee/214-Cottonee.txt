@@ -1,0 +1,39 @@
+214:Cottonee|1
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,1.0
+2:Encore,100.0%,1.0
+3:Substitute,100.0%,1.0
+4:Leech Seed,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Greninja
+2:Ferrothorn
+3:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fake Out,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ludicolo
