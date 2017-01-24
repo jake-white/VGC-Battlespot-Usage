@@ -78,8 +78,8 @@ var parsePokemon = function(name, dexNumber, currentMon, lengthOfMons){
       handleElement(currentMon);
       if(currentMon==0) display(0);
       if(currentMon==lengthOfMons-1){
-        $('#tbl1.tbl-body').html(htmlarray);
         for(var i = 0; i < lengthOfMons-1; ++i){
+        $('#tbl1.tbl-body').append(htmlarray[i]);
           handleElement(i);
         }
       }
