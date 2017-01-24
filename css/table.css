@@ -78,7 +78,7 @@ body {
 
 #primary {
     float: left;
-    width: 10%;
+    width: 12%;
     height: 100%;
     padding: 10px;
 }
@@ -91,9 +91,8 @@ body {
 
 #secondary {
     float: left;
-    width: 65%;
+    width: 60%;
     height: 100%;
-    padding-left: 10px;
 }
 
 #footer {
@@ -178,8 +177,10 @@ td{
   width: 10%;
 }
 
-.nameTD {
+.nameTD{
   width: 60%;  
+}
+td.nameTD{
   border-right: 2px solid black;
 }
 
