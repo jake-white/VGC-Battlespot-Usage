@@ -81,6 +81,7 @@ body {
     width: 12%;
     height: 100%;
     padding: 10px;
+  text-align: left;
 }
 
 #content {
@@ -93,17 +94,17 @@ body {
     float: left;
     width: 60%;
     height: 100%;
+  text-align: center;
 }
 
 #footer {
     clear: both;
 }
 
-label{
+.label{
   color: #080c17;
   font: 16pt Verdana, sans-serif;
   text-transform: uppercase;
-  text-align: center;
 }
 
 .mh-site-logo{
