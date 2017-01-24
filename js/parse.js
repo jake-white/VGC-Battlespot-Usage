@@ -175,7 +175,7 @@ var display = function(mon){
             <td>" + pokemonList[mon].movesThatThisPokemonKOsWith[i] + "</td>\
             <td>" + pokemonList[mon].movesThatKOThisPokemon[i] + "</td>\
             <td>" + pokemonList[mon].pokemonThatThisPokemonKOs[i] + "</td>\
-            <td>" + pokemonList[mon].pokemonThatKOThisPokemon[i] + "</td>\
+            <td style = 'border-right: 2px solid black'>" + pokemonList[mon].pokemonThatKOThisPokemon[i] + "</td>\
             </tr>");
   }
 }
