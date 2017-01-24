@@ -62,8 +62,13 @@ var parsePokemon = function(name, dexNumber, currentMon){
       totalNumberOfThisPokemon = pokemonData['rankingPokemonInfo']['totalNumberOfThisPokemon'];
       pokemonList.push(new Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses, 
   pokemonOnTheSameTeamWithThisPokemon, movesThatThisPokemonKOsWith, movesThatKOThisPokemon, pokemonThatThisPokemonKOs, pokemonThatKOThisPokemon));
-
-
+      if(name.includes("-Alola")){
+        dexNumber = dexNumber +"-1";
+      }
+      else if(formes[name.toLowerCase().trim()] != undefined){
+        dexNumber = formes[name.toLowerCase().trim()];
+        console.log(dexNumber);
+      }
       $('#tbl1.tbl-body ').append("<tr id = " + currentMon + " class = trChild>\
             <td class = rankTD>" + (currentMon+1) + "</td>\
             <td class = nameTD><img style = 'vertical-align: middle' src=sprites/" + dexNumber + ".png>" + name + "</img></td>\
