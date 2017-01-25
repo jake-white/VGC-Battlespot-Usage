@@ -61,8 +61,8 @@ var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
       pokemonThatKOThisPokemon = pokemonData['rankingPokemonDown'];
       movesThatKOThisPokemon = pokemonData['rankingPokemonDownWaza'];
       totalNumberOfThisPokemon = pokemonData['rankingPokemonInfo']['totalNumberOfThisPokemon'];
-      pokemonList.push(new Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses, 
-  pokemonOnTheSameTeamWithThisPokemon, movesThatThisPokemonKOsWith, movesThatKOThisPokemon, pokemonThatThisPokemonKOs, pokemonThatKOThisPokemon));
+      pokemonList[thisNumber] = new Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses, 
+  pokemonOnTheSameTeamWithThisPokemon, movesThatThisPokemonKOsWith, movesThatKOThisPokemon, pokemonThatThisPokemonKOs, pokemonThatKOThisPokemon);
       if(name.includes("-Alola")){
         dexNumber = dexNumber +"-1";
       }
@@ -74,7 +74,7 @@ var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
             <td class = rankTD>" + (thisNumber+1) + "</td>\
             <td class = nameTD><img style = 'vertical-align: middle' src=sprites/" + dexNumber + ".png>" + name + "</img></td>\
             </tr>");
-  console.log(thisNumber + " " + currentMon);
+      console.log(thisNumber + " " + currentMon);
 
       handleElement(thisNumber);
       if(thisNumber==lengthOfMons-1){
