@@ -42,7 +42,6 @@ var parseMons = function(dataset){
 
 var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
   var pokemonFile = 'Data/'+name+'/usage.txt';
-  console.log(thisNumber + " " + currentMon);
   $.get(pokemonFile, function(data) {
       var pokemonData = JSON.parse(data);
 
@@ -75,6 +74,7 @@ var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
             <td class = rankTD>" + (thisNumber+1) + "</td>\
             <td class = nameTD><img style = 'vertical-align: middle' src=sprites/" + dexNumber + ".png>" + name + "</img></td>\
             </tr>");
+  console.log(thisNumber + " " + currentMon);
 
       handleElement(thisNumber);
       if(thisNumber==lengthOfMons-1){
