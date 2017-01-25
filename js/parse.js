@@ -74,7 +74,6 @@ var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
             <td class = rankTD>" + (thisNumber+1) + "</td>\
             <td class = nameTD><img style = 'vertical-align: middle' src=sprites/" + dexNumber + ".png>" + name + "</img></td>\
             </tr>");
-      console.log(thisNumber + " " + currentMon);
 
       handleElement(thisNumber);
       if(thisNumber==lengthOfMons-1){
