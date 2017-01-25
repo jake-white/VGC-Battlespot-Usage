@@ -42,6 +42,7 @@ var parseMons = function(dataset){
 
 var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
   var pokemonFile = 'Data/'+name+'/usage.txt';
+  console.log(thisNumber + " " + currentMon);
   $.get(pokemonFile, function(data) {
       var pokemonData = JSON.parse(data);
 
