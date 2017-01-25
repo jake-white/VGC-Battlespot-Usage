@@ -40,7 +40,7 @@ var parseMons = function(dataset){
   }
 }
 
-var parsePokemon = function(name, dexNumber, currentMon, lengthOfMons){
+var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
   var pokemonFile = 'Data/'+name+'/usage.txt';
   $.get(pokemonFile, function(data) {
       var pokemonData = JSON.parse(data);
@@ -70,18 +70,19 @@ var parsePokemon = function(name, dexNumber, currentMon, lengthOfMons){
         dexNumber = formes[name.toLowerCase().trim()];
       }
 
-      htmlarray[currentMon] = ("<tr id = " + currentMon + " class = trChild>\
-            <td class = rankTD>" + (currentMon+1) + "</td>\
+      htmlarray[thisNumber] = ("<tr id = " + thisNumber + " class = trChild>\
+            <td class = rankTD>" + (thisNumber+1) + "</td>\
             <td class = nameTD><img style = 'vertical-align: middle' src=sprites/" + dexNumber + ".png>" + name + "</img></td>\
             </tr>");
 
-      handleElement(currentMon);
-      if(currentMon==0) display(0);
-      if(currentMon==lengthOfMons-1){
-        for(var i = 0; i < lengthOfMons-1; ++i){
+      handleElement(thisNumber);
+      if(thisNumber==lengthOfMons-1){
+        for(var i = 0; i < lengthOfMons; ++i){
         $('#tbl1.tbl-body').append(htmlarray[i]);
           handleElement(i);
         }
+        $('#0').css("background-color","");
+        display(0);
       }
   }, 'text');
 }
