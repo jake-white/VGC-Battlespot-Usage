@@ -10,7 +10,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="http://trainertower.com/usage-stats/image_res/rhydon.png" />
 	
-	<title>Showdown VGC Usage</title>
+	<title>Battlespot WCS Usage</title>
 	<link rel="icon" type="image/png" href="image_res/favicon.ico" />
 	<link rel="stylesheet" type="text/css" href="css/table.css">
 	<link rel="stylesheet" type="text/css" href="css/dropdown.css">
@@ -34,17 +34,16 @@
 
 <body>
 	<div class="header"><div class="wrapper">
-	            <span class="header-logo"><a href="http://trainertower.com"><img src="image_res/trainertower.png" alt="Trainer Tower" height="50px" /></a></span><span class="nav"><a href="http://trainertower.com">Home</a> | <a href="http://play.pokemonshowdown.com/vgc">Showdown</a> | <a href="http://www.trainertower.com/vgc-2017-speed-tiers/">2017 Speed Tiers</a> | <a href="https://github.com/jake-white/VGC-Usage">GitHub Page</a> | <a href="http://www.trainertower.com/damagecalc">Damage Calculator</a></span>
+	            <span class="header-logo"><a href="http://trainertower.com"><img src="image_res/trainertower.png" alt="Trainer Tower" height="50px" /></a></span><span class="nav"><a href="http://trainertower.com">Home</a> | <a href="http://play.pokemonshowdown.com/vgc">Showdown</a> | <a href="http://www.trainertower.com/vgc-2017-speed-tiers/">2017 Speed Tiers</a> | <a href="https://github.com/jake-white/VGC-Battlespot-Usage">GitHub Page</a> | <a href="http://www.trainertower.com/damagecalc">Damage Calculator</a></span>
 	            <div style="clear:both"></div>
 
 	</div></div>
 	<div id="container">	    
 	    <div id="primary">
 
-			<label>Ratings (1760)</label>
-			<select id = "month" onchange = "rateChange()">
-				<option value="12-16">December 2016</option>
-				<option value="11-16">November 2016</option>
+			<div class="label">Battlespot Ratings</div>
+			<select id = "season" onchange = "seasonChange()">
+				<option value="2">Season 2</option>
 			</select>
 			<div class="tbl-header">
 			  <table cellpadding="0" cellspacing="0" border="0">
@@ -52,7 +51,6 @@
 			        <tr>
 				        <th class = "rankTD"></th>
 				        <th class = "nameTD">Pokemon</th>
-				        <th class = "percentTD">%</th>
 			      	</tr>
 			    </thead>
 			  </table>
@@ -65,14 +63,8 @@
 			</div>
 	    </div>
 	    
-	    <div id="content">
-	    	<p>Showdown Usage Stat Viewer by <a href="https://twitter.com/squirrelboyVGC">@squirrelboyVGC</a></p>
-		    <p>Credit to <a href="https://twitter.com/InfiniteAntar">Antar</a> for the stats, accessible on <a href ="http://www.smogon.com/stats/">Smogon's servers</a>.</p>
-	    	<img src="image_res/lele.png" width="100%">
-	    </div>
-	    
 	    <div id="secondary">
-			<label>Sets</label>
+			<div class="label">Sets</div>
 			<div class="tbl-header">
 			  <table cellpadding="0" cellspacing="0" border="0">
 			    <thead>
@@ -80,8 +72,12 @@
 			        <th>Moves</th>
 			        <th>Abilities</th>
 			        <th>Items</th>
-			        <th>Spreads</th>
+			        <th>Natures</th>
 			        <th>Teammates</th>
+			        <th>Moves this Pokemon uses to KO</th>
+			        <th>Moves that KO this Pokemon</th>
+			        <th>Pokemon that this Pokemon KOs</th>
+			        <th>Pokemon that KO this Pokemon</th>
 			      </tr>
 			    </thead>
 			  </table>
@@ -92,6 +88,14 @@
 			      </tbody>
 			  </table>
 			</div>
+	    </div>
+	    
+	    
+	    <div id="content">
+	    	<p>Battlespot WCS Usage Stat Viewer by <a href="https://twitter.com/squirrelboyVGC">@squirrelboyVGC</a></p>
+		    <p>These stats are accessible to the public via <a href ="https://3ds.pokemon-gl.com/">Pokemon Global Link</a>.</p>
+		    <p>Credit to <a href="https://github.com/Ferretsroq/Pokemon-HTTP-Requests">Ferretsroq</a> for creating the original webscraping script!</p>
+	    	<img src="image_res/arcanine.png" width="100%">
 	    </div>
 	</div>
 </body>
