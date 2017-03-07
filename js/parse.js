@@ -22,9 +22,10 @@ $( document ).ready(function() {
 
 
 var readFile = function(data){
- 	var results = 'Data/results.txt';
+ 	var results = 'https://jake-white.github.io/VGC-Battlespot-Usage/Data/results.txt';
   $.get(results, function(data) {
     var dataset = data.split('\n');
+    dataset.pop(dataset.length-1);
     parseMons(dataset) 
   }, 'text');
 }
@@ -41,7 +42,7 @@ var parseMons = function(dataset){
 }
 
 var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
-  var pokemonFile = 'Data/'+name+'/usage.txt';
+  var pokemonFile = 'https://jake-white.github.io/VGC-Battlespot-Usage/Data/'+name+'/usage.txt';
   $.get(pokemonFile, function(data) {
       var pokemonData = JSON.parse(data);
 
