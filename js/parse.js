@@ -3,6 +3,11 @@ var htmlarray = [];
 
 var currentMon = 0;
 
+var dataUrls = {
+  "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/",
+  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/"
+}
+
 var formes = {"porygon-z":"474",
 "jangmo-o":"782", 
 "hakamo-o":"783", 
@@ -20,9 +25,13 @@ $( document ).ready(function() {
     readFile();
 });
 
+var seasonChange = function(){
+  readFile();
+}
+
 
 var readFile = function(data){
- 	var results = 'https://jake-white.github.io/VGC-Battlespot-Usage/Data/results.txt';
+ 	var results = dataUrls[$('#season').val()] + 'results.txt';
   $.get(results, function(data) {
     var dataset = data.split('\n');
     dataset.pop(dataset.length-1);
@@ -42,7 +51,7 @@ var parseMons = function(dataset){
 }
 
 var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
-  var pokemonFile = 'https://jake-white.github.io/VGC-Battlespot-Usage/Data/'+name+'/usage.txt';
+  var pokemonFile = dataUrls[$('#season').val()] +name+'/usage.txt';
   $.get(pokemonFile, function(data) {
       var pokemonData = JSON.parse(data);
 
