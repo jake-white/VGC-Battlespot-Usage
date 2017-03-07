@@ -31,6 +31,7 @@ var seasonChange = function(){
 
 
 var readFile = function(data){
+  currentMon = 0;
   $('#tbl1.tbl-body').html("");
  	var results = dataUrls[$('#season').val()] + 'results.txt';
   $.get(results, function(data) {
