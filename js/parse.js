@@ -4,7 +4,8 @@ var htmlarray = [];
 var currentMon = 0;
 
 var dataUrls = {
-  "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/",
+  "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-2/",
+  "3":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-3/",
   "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/"
 }
 
