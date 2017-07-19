@@ -6,7 +6,11 @@ var currentMon = 0;
 var dataUrls = {
   "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-2/",
   "3":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-3/",
-  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/"
+  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/",
+  "4":"https://Razator73.github.io/VGC-Battlespot-Usage/Data-4/",
+  "ICApr":"https://Razator73.github.io/VGC-Battlespot-Usage/Data-ICApr/",
+  "ICMay":"https://Razator73.github.io/VGC-Battlespot-Usage/Data-ICMay/",
+  "5":"https://Razator73.github.io/VGC-Battlespot-Usage/Data-5/"
 }
 
 var formes = {"porygon-z":"474",
