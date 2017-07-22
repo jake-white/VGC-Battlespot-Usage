@@ -9,7 +9,7 @@ var dataUrls = {
   "4":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-4/",
   "5":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-5/",
   "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/",
-  "ICApril":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICApril/",
+  "ICApr":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICApr/",
   "ICMay":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICMay/"
 }
 
