@@ -6,21 +6,27 @@ var currentMon = 0;
 var dataUrls = {
   "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-2/",
   "3":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-3/",
-  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/"
+  "4":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-4/",
+  "5":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-5/",
+  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/",
+  "ICApril":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICApril/",
+  "ICMay":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICMay/"
 }
 
-var formes = {"porygon-z":"474",
-"jangmo-o":"782", 
-"hakamo-o":"783", 
-"kommo-o":"784", 
-"oricorio-pom-pom":"741-1",
-"oricorio-pa'u":"741-2",
-"oricorio-sensu":"741-3",
-"type:null":"772",
-"lycanroc-midnight":"745-1",
-"lycanroc-midday":"745",
-"zygarde-10%":"718-1",
-"zygarde-complete":"718-4",};
+var formes = {
+  "porygon-z":"474",
+  "jangmo-o":"782",
+  "hakamo-o":"783",
+  "kommo-o":"784",
+  "oricorio-pom-pom":"741-1",
+  "oricorio-pa'u":"741-2",
+  "oricorio-sensu":"741-3",
+  "type:null":"772",
+  "lycanroc-midnight":"745-1",
+  "lycanroc-midday":"745",
+  "zygarde-10%":"718-1",
+  "zygarde-complete":"718-4"
+};
 
 $( document ).ready(function() {
     readFile();
@@ -38,7 +44,7 @@ var readFile = function(data){
   $.get(results, function(data) {
     var dataset = data.split('\n');
     dataset.pop(dataset.length-1);
-    parseMons(dataset) 
+    parseMons(dataset)
   }, 'text');
 }
 
@@ -74,7 +80,7 @@ var parsePokemon = function(name, dexNumber, thisNumber, lengthOfMons){
       pokemonThatKOThisPokemon = pokemonData['rankingPokemonDown'];
       movesThatKOThisPokemon = pokemonData['rankingPokemonDownWaza'];
       totalNumberOfThisPokemon = pokemonData['rankingPokemonInfo']['totalNumberOfThisPokemon'];
-      pokemonList[thisNumber] = new Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses, 
+      pokemonList[thisNumber] = new Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses,
   pokemonOnTheSameTeamWithThisPokemon, movesThatThisPokemonKOsWith, movesThatKOThisPokemon, pokemonThatThisPokemonKOs, pokemonThatKOThisPokemon);
       if(name.includes("-Alola")){
         dexNumber = dexNumber +"-1";
@@ -106,9 +112,9 @@ function handleElement(id) {
     })
 }
 
-function Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses, 
+function Pokemon(movesThatThisPokemonUses, itemsThatThisPokemonUses, abilitiesThatThisPokemonUses, naturesThatThisPokemonUses,
   pokemonOnTheSameTeamWithThisPokemon, movesThatThisPokemonKOsWith, movesThatKOThisPokemon, pokemonThatThisPokemonKOs, pokemonThatKOThisPokemon){
-  
+
   this.moves = movesThatThisPokemonUses;
   this.items = itemsThatThisPokemonUses;
   this.abilities = abilitiesThatThisPokemonUses;
