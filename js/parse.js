@@ -4,13 +4,13 @@ var htmlarray = [];
 var currentMon = 0;
 
 var dataUrls = {
-  "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-2/",
-  "3":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-3/",
-  "4":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-4/",
-  "5":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-5/",
-  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICFeb/",
-  "ICApr":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICApr/",
-  "ICMay":"https://jake-white.github.io/VGC-Battlespot-Usage/Data-ICMay/"
+  "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/2",
+  "3":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/3",
+  "4":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/4",
+  "5":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/5",
+  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/Data-ICFeb",
+  "ICApr":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/Data-ICApr/",
+  "ICMay":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/Data-ICMay/"
 }
 
 var formes = {
