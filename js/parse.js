@@ -4,13 +4,7 @@ var htmlarray = [];
 var currentMon = 0;
 
 var dataUrls = {
-  "2":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/2",
-  "3":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/3",
-  "4":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/4",
-  "5":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/5",
-  "ICFeb":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/Data-ICFeb",
-  "ICApr":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/Data-ICApr/",
-  "ICMay":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/Data-ICMay/"
+  "1":"Data/1/",
 }
 
 var formes = {
@@ -25,7 +19,10 @@ var formes = {
   "lycanroc-midnight":"745-1",
   "lycanroc-midday":"745",
   "zygarde-10%":"718-1",
-  "zygarde-complete":"718-4"
+  "zygarde-complete":"718-4",
+  "landorustherian":"645-1",
+  "thundurustherian":"642-1",
+  "tornadustherian":"641-1",
 };
 
 $( document ).ready(function() {
@@ -40,7 +37,7 @@ var seasonChange = function(){
 var readFile = function(data){
   currentMon = 0;
   $('#tbl1.tbl-body').html("");
- 	var results = dataUrls[$('#season').val()] + 'results.txt';
+ 	var results = dataUrls[$('#season').val()] + '/results.txt';
   $.get(results, function(data) {
     var dataset = data.split('\n');
     dataset.pop(dataset.length-1);
