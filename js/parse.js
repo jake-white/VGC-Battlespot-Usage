@@ -20,9 +20,9 @@ var formes = {
   "lycanroc-midday":"745",
   "zygarde-10%":"718-1",
   "zygarde-complete":"718-4",
-  "landorustherian":"645-1",
-  "thundurustherian":"642-1",
-  "tornadustherian":"641-1",
+  "landorus-t":"645-1",
+  "thundurus-t":"642-1",
+  "tornadus-t":"641-1",
 };
 
 $( document ).ready(function() {
