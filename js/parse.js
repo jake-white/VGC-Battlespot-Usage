@@ -4,7 +4,7 @@ var htmlarray = [];
 var currentMon = 0;
 
 var dataUrls = {
-  "1":"Data/1/",
+  "1":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/1/",
 }
 
 var formes = {
