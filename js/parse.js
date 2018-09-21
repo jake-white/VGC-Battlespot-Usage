@@ -4,7 +4,7 @@ var htmlarray = [];
 var currentMon = 0;
 
 var dataUrls = {
-  "1":"https://jake-white.github.io/VGC-Battlespot-Usage/Data/1/",
+  "1":"https://jake-white.github.io/VGC-Battlespot-Usage/2019Data/12/",
 }
 
 var formes = {
@@ -23,6 +23,8 @@ var formes = {
   "landorus-t":"645-1",
   "thundurus-t":"642-1",
   "tornadus-t":"641-1",
+  "necrozma-dusk-mane":"800-1",
+  "necrozma-dawn-wings":"800-2",
 };
 
 $( document ).ready(function() {

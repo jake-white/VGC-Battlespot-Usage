@@ -19,7 +19,7 @@ def GetData(pokemonID):
     '''Pulls the json data from PGL and converts it to a usable dictionary'''
     requestDataList = [
         'languageId=2',
-        'seasonId=307',
+        'seasonId=312',
         'battleType=6',
         'timezone=EDT',
         'pokemonId=%s' % (pokemonID),
@@ -74,11 +74,38 @@ def GetFormeData():
         'Muk-Alola' : '89-1',
         'Exeggutor-Alola' : '103-1',
         'Marowak-Alola' : '105-1',
+        '741-0' : "Oricorio",
+        '741-1' : "Oricorio-Pom-Pom",
+        '741-2' : "Oricorio-Pa'u",
+        '741-3' : "Oricorio-Sensu",
+        '745-0' : "Lycanroc-Midday",
+        '745-1' : "Lycanroc-Midnight",
+        '772-0' : "Type-Null",
+        '773-0' : "Silvally",
+        '773-1' : "Silvally-Fighting",
+        '773-2' : "Silvally-Flying",
+        '773-3' : "Silvally-Poison",
+        '773-4' : "Silvally-Ground",
+        '773-5' : "Silvally-Rock",
+        '773-6' : "Silvally-Bug",
+        '773-7' : "Silvally-Ghost",
+        '773-8' : "Silvally-Steel",
+        '773-9' : "Silvally-Fire",
+        '773-10' : "Silvally-Water",
+        '773-11' : "Silvally-Grass",
+        '773-12' : "Silvally-Electric",
+        '773-13' : "Silvally-Psychic",
+        '773-14' : "Silvally-Ice",
+        '773-15' : "Silvally-Dragon",
+        '773-16' : "Silvally-Dark",
+        '773-17' : "Silvally-Fairy",
+        '800-1' : "Necrozma-Dusk-Mane",
+        '800-2' : "Necrozma-Dawn-Wings"
         }
     for pokemon in pokemonWithFormes:
         requestDataList = [
         'languageId=2',
-        'seasonId=307',
+        'seasonId=312',
         'battleType=6',
         'timezone=EST',
         'pokemonId=%s' % (pokemonWithFormes[pokemon]),
@@ -292,7 +319,9 @@ pokemonWithFormes = {
         '773-14' : "Silvally-Ice",
         '773-15' : "Silvally-Dragon",
         '773-16' : "Silvally-Dark",
-        '773-17' : "Silvally-Fairy"
+        '773-17' : "Silvally-Fairy",
+        '800-1' : "Necrozma-Dusk-Mane",
+        '800-2' : "Necrozma-Dawn-Wings"
 }
 
 pokemonList = [0]
