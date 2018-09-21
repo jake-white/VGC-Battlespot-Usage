@@ -23,8 +23,11 @@ var formes = {
   "landorus-t":"645-1",
   "thundurus-t":"642-1",
   "tornadus-t":"641-1",
+  'kyurem-w' : '646-1',
+  'kyurem-b' : '646-2',
   "necrozma-dusk-mane":"800-1",
   "necrozma-dawn-wings":"800-2",
+  "necrozma-ultra":"800-",
 };
 
 $( document ).ready(function() {
